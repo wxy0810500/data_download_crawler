@@ -1,0 +1,1 @@
+('MolToSimles failed,XRD:6840459', RuntimeError('Pre-condition Violation\n\tbad bond type\n\tViolation occurred on line 29 in file Code/GraphMol/Canon.cpp\n\tFailed Expression: bond->getBondType() == Bond::SINGLE || bond->getIsAromatic()\n\tRDKIT: 2018.09.1\n\tBOOST: 1_65_1\n',))

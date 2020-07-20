@@ -1,0 +1,45 @@
+id	name	isLeaf	pId	deep	parentID
+odQBVMdsBSA	FDA approval packages	False	0	1	
+HwJZo61DYGB	EMA approval documents	False	0	1	
+pUh2xrovtf_	Meyler's	True	0	1	
+l2oZu8A7KOA	Mosby's Drug Consult™	True	0	1	
+V7shuWjarwB	PharmaPendium Published Toxicity	True	0	1	
+2rLbcq79Ou9	ANNEX	True	HwJZo61DYGB	2	HwJZo61DYGB
+t3zt-nz4QUH	ANNEX I	True	HwJZo61DYGB	2	HwJZo61DYGB
+YQHC1f2ICTH	Assessment Report	True	HwJZo61DYGB	2	HwJZo61DYGB
+6QHphqv3_pF	Information on Procedure	True	HwJZo61DYGB	2	HwJZo61DYGB
+r5vlgg7kxuD	Medicine Overview	True	HwJZo61DYGB	2	HwJZo61DYGB
+ZcP2_3KMFc-	Other Information from EMA	True	HwJZo61DYGB	2	HwJZo61DYGB
+_5YkqU0nMV4	Positive Opinion Summary	True	HwJZo61DYGB	2	HwJZo61DYGB
+AoLy0OdPPkH	Press Release	True	HwJZo61DYGB	2	HwJZo61DYGB
+cXrwWJ6wH-D	Procedural Steps	True	HwJZo61DYGB	2	HwJZo61DYGB
+lCqnsIKS33C	Public Assessment Report	True	HwJZo61DYGB	2	HwJZo61DYGB
+-HaadSmYzq_	Q&A	True	HwJZo61DYGB	2	HwJZo61DYGB
+FK-kHRXC4G7	Risk Management Plan Summary	True	HwJZo61DYGB	2	HwJZo61DYGB
+LmVMIeM_qX9	Scientific Discussion	True	HwJZo61DYGB	2	HwJZo61DYGB
+2Zf3W8Tsem-	Variation of Marketing Authorization Terms	True	HwJZo61DYGB	2	HwJZo61DYGB
+nkRhA0RiJyC	Withdrawal Public Statement	True	HwJZo61DYGB	2	HwJZo61DYGB
+VaOjaQR8ZZ6	Administrative documents	True	odQBVMdsBSA	2	odQBVMdsBSA
+IvEM6Q8z-v_	Approval Letter	True	odQBVMdsBSA	2	odQBVMdsBSA
+4Hx2FQook1-	Approval Package	True	odQBVMdsBSA	2	odQBVMdsBSA
+5QN-BtUFci7	Bioequivalence Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+DQkGo1sZJxD	Chemistry Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+MoVrN-_N7M7	Clinical Pharmacology and Biopharmaceutics Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+p-ukj9YJ3AF	Correspondence	True	odQBVMdsBSA	2	odQBVMdsBSA
+pnO7raBLRO_	Environmental Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+gNOUFqTP2A5	FDA Approval Document	True	odQBVMdsBSA	2	odQBVMdsBSA
+e3g7cm-YAF8	Healthcare Professional Sheet	True	odQBVMdsBSA	2	odQBVMdsBSA
+53R0EvbkXj4	Label	True	odQBVMdsBSA	2	odQBVMdsBSA
+VDM7Gv3_gQ5	Letter	True	odQBVMdsBSA	2	odQBVMdsBSA
+g6pOMMh8z6E	Medical Officer Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+MFLyJWhSs79	Medical/Clinical Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+607s-KB9-6G	Medication Guide	True	odQBVMdsBSA	2	odQBVMdsBSA
+ElcazJHXxHE	Microbiology Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+eduqShoCD2C	Other Important Information from FDA	True	odQBVMdsBSA	2	odQBVMdsBSA
+ViHfkFLqnz9	Patient Information Sheet	True	odQBVMdsBSA	2	odQBVMdsBSA
+dXWdlkiFRo5	Patient Package Insert	True	odQBVMdsBSA	2	odQBVMdsBSA
+_CrZDyf0Z79	Pharmacology Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+x5yHoFLHjW8	Printed Labeling	True	odQBVMdsBSA	2	odQBVMdsBSA
+HxmdkKanwe6	Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+M6R9YJX9kGF	Statistical Review	True	odQBVMdsBSA	2	odQBVMdsBSA
+B8VdkfQenA_	Summary Review	True	odQBVMdsBSA	2	odQBVMdsBSA

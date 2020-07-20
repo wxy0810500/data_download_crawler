@@ -1,0 +1,764 @@
+id	name	isLeaf	pId	deep	parentID
+zv_C0_pvfv-	By Ligand or Substrate	False	0	1	
+b6v-QjYJyY8	By SuperFamily	False	0	1	
+LOaigUReTj9	Enzymes	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+5qpCvzhq0Y9	Glycolipids	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+uVVj-bBy4YH	Glycoproteins	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+sOM7VDl-53-	Ion Channels	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+Ubw6GdrSgV5	Messenger ribonucleic acid (mRNA)	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+0EI5zSKofS8	Other proteins	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+HMIMz3l1YZ8	Receptors	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+3k3KmTVFEPF	Transporters	False	b6v-QjYJyY8	2	b6v-QjYJyY8
+Npaxm6pGu4_	Inorganic Ion Transporters	False	3k3KmTVFEPF	3	3k3KmTVFEPF
+biFJ5sjDCR9	Organic Anionic Transporters	False	3k3KmTVFEPF	3	3k3KmTVFEPF
+sf2dDV5bDj8	Sodium and Chloride Dependent Transporters	False	3k3KmTVFEPF	3	3k3KmTVFEPF
+4WiMAOtLMB7	Transporters for Amino Acids	False	3k3KmTVFEPF	3	3k3KmTVFEPF
+3bh0-HbpTN-	GABA Transporters	True	4WiMAOtLMB7	4	4WiMAOtLMB7
+f4Qmyh_R2U9	DAT, Dopamine Transporter	True	sf2dDV5bDj8	4	sf2dDV5bDj8
+-MP1GreCS9G	NET, Norepinephrine Transporter	True	sf2dDV5bDj8	4	sf2dDV5bDj8
+YLgUBi6N8v-	SERT, Serotonin Transporter	True	sf2dDV5bDj8	4	sf2dDV5bDj8
+_lIRIE7C_J9	Sodium-dependent glucose cotransporters	False	sf2dDV5bDj8	4	sf2dDV5bDj8
+oBDyf2gXlFE	VMAT2 Vesicular Monoamine Transporter 2	True	sf2dDV5bDj8	4	sf2dDV5bDj8
+j8EVI1tnBk5	SGLT2, sodium-glucose cotransporter 1	True	_lIRIE7C_J9	5	_lIRIE7C_J9
+irtsDExWX04	SGLT2, sodium-glucose cotransporter 2	True	_lIRIE7C_J9	5	_lIRIE7C_J9
+SVL56WI8H3H	Organic Anion Transporters for Multiple Substrates	False	biFJ5sjDCR9	4	biFJ5sjDCR9
+DuItVLUwsUA	Organic Anion Transporting Polypeptides	False	biFJ5sjDCR9	4	biFJ5sjDCR9
+CQP8ziolNO5	Organic Anion Transporting Polypeptide 1A2	True	DuItVLUwsUA	5	DuItVLUwsUA
+OFGI1Z9lDBE	OAT Organic Anion Transporters	False	SVL56WI8H3H	5	SVL56WI8H3H
+HN3aLzlDVHA	OAT4, Organic Anion Transporter 4	True	OFGI1Z9lDBE	6	OFGI1Z9lDBE
+vqMA2oAOUV_	URAT1, Uric Acid Transporter 1	True	OFGI1Z9lDBE	6	OFGI1Z9lDBE
+EGLbIizdI66	Inorganic Ion Co-Transporters	False	Npaxm6pGu4_	4	Npaxm6pGu4_
+pg6PMCgXHh7	Inorganic Ion Primary Active Transporters	False	Npaxm6pGu4_	4	Npaxm6pGu4_
+rWp30QlV-U8	Sodium/hydrogen exchanger	False	Npaxm6pGu4_	4	Npaxm6pGu4_
+n1kPT-l_r06	Sodium–hydrogen exchanger 3 (NHE3)	True	rWp30QlV-U8	5	rWp30QlV-U8
+TpFkyYYFoeG	(H+ K+)-ATPase	True	pg6PMCgXHh7	5	pg6PMCgXHh7
+30oBJUArf-_	Sodium-Potassium ATPase	True	pg6PMCgXHh7	5	pg6PMCgXHh7
+dvQpj72W0A-	CFTR Cystic Fibrosis Transmembrane Conductance Regulator	True	EGLbIizdI66	5	EGLbIizdI66
+W4QSQR5blF_	NKCC Sodium-Potassium-Chloride co-Transporters	True	EGLbIizdI66	5	EGLbIizdI66
+OTE442Gh9AF	7-Transmembrane Receptors	False	HMIMz3l1YZ8	3	HMIMz3l1YZ8
+dcgws5Sc1f4	Catalytic Receptors	False	HMIMz3l1YZ8	3	HMIMz3l1YZ8
+fhvURhhfRh-	Immunoglobulin	False	HMIMz3l1YZ8	3	HMIMz3l1YZ8
+78YglKTHU2D	Ligand-Gated Ion Channels	False	HMIMz3l1YZ8	3	HMIMz3l1YZ8
+tq8SEgPcit-	Nuclear Receptors	False	HMIMz3l1YZ8	3	HMIMz3l1YZ8
+nSJ-_p3rdQ9	Farnesoid X receptor	True	tq8SEgPcit-	4	tq8SEgPcit-
+nn8oxfhcg-H	Mineralocorticoid receptor	True	tq8SEgPcit-	4	tq8SEgPcit-
+y8XX0Ed7IC5	PPAR Peroxisome Proliferator-Activated Receptors	False	tq8SEgPcit-	4	tq8SEgPcit-
+C2MnvS2GlV8	Progesterone Receptors	True	tq8SEgPcit-	4	tq8SEgPcit-
+_nn1cJSF5F9	Retinoic Acid Receptors	True	tq8SEgPcit-	4	tq8SEgPcit-
+ZR74nRqsxHG	Steroid hormone receptors	False	tq8SEgPcit-	4	tq8SEgPcit-
+4_tbJKJ4orF	Thyroid Hormone Receptors	True	tq8SEgPcit-	4	tq8SEgPcit-
+_1bYAjBFIoD	Androgen Receptors	True	ZR74nRqsxHG	5	ZR74nRqsxHG
+F-FCPbCn7X7	ER Estrogen receptors	True	ZR74nRqsxHG	5	ZR74nRqsxHG
+15VXvwQtzjF	Glucocorticoid Receptors	True	ZR74nRqsxHG	5	ZR74nRqsxHG
+9Ewk835jBA4	PPAR-Alpha Peroxisome Proliferator-Activated Receptor	True	y8XX0Ed7IC5	5	y8XX0Ed7IC5
+nHOSSJmZDxD	PPAR-Gamma Peroxisome Proliferator-Activated Receptors	True	y8XX0Ed7IC5	5	y8XX0Ed7IC5
+ExMWbpeCTsB	GABA Receptors	False	78YglKTHU2D	4	78YglKTHU2D
+WPZ8wRrmo94	Glycine Receptors	True	78YglKTHU2D	4	78YglKTHU2D
+8RJl5Uu1D-C	Imidazoline Receptors	False	78YglKTHU2D	4	78YglKTHU2D
+bQ5x0-DbzG4	Ionotropic Glutamate Receptors	False	78YglKTHU2D	4	78YglKTHU2D
+hdNh-24EMOH	Nicotinic Acetylcholine Receptors	True	78YglKTHU2D	4	78YglKTHU2D
+DQg2PFFINH9	Vanilloid Receptors	False	78YglKTHU2D	4	78YglKTHU2D
+iU3YylLgdZG	TRPV1 (VR-1) Vanilloid Receptor	True	DQg2PFFINH9	5	DQg2PFFINH9
+4yiWBUvsor5	AMPA Glutamate Receptors	True	bQ5x0-DbzG4	5	bQ5x0-DbzG4
+2rYUJgsd7S_	NMDA Glutamate Receptor	True	bQ5x0-DbzG4	5	bQ5x0-DbzG4
+RSfQpW0vpw6	I-1 Imidazoline Receptor	True	8RJl5Uu1D-C	5	8RJl5Uu1D-C
+vFyuJ1iWQNF	GABA-A Receptors	False	ExMWbpeCTsB	5	ExMWbpeCTsB
+UmdGTzEvoS-	GABA-A Receptor Alpha 1	True	vFyuJ1iWQNF	6	vFyuJ1iWQNF
+rscJNI6RjlF	Programmed death receptor-1 (PD-1)	True	fhvURhhfRh-	4	fhvURhhfRh-
+ee_QmAatLC5	Accessory Adhesion Activator	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+HYQM5_uV10C	Colony stimulating factor receptors	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+pe8r55cqCfB	ErbB Family	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+gxo0k68dv4-	Immune Response Targets	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+E6g2UU3gtz6	Insulin Receptor	True	dcgws5Sc1f4	4	dcgws5Sc1f4
+vbJ6gFajo0H	Insulin-like Growth Factor (IGF) Receptor	True	dcgws5Sc1f4	4	dcgws5Sc1f4
+w3D-G5X-jH_	Integrin	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+LqZtcw4r1Q7	Keratinocyte Growth Factor Receptor (KGFR)	True	dcgws5Sc1f4	4	dcgws5Sc1f4
+i3u-6vvWN3E	Platelet-Derived Growth Factor Receptors	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+CbYJdTnXSo_	Vascular Endothelial Growth Factor Receptors (VEGFR)	False	dcgws5Sc1f4	4	dcgws5Sc1f4
+e47WD6WA6W_	Vascular Endothelial Growth Factor Receptor 2 (VEGFR2)	True	CbYJdTnXSo_	5	CbYJdTnXSo_
+cC4seTnfLF5	Platelet-Derived Growth Factor Receptor alpha	True	i3u-6vvWN3E	5	i3u-6vvWN3E
+jfpdW-RMiM8	Integrin Receptor	True	w3D-G5X-jH_	5	w3D-G5X-jH_
+ZTTqeUOCRPF	Platelet Receptor Glycoprotein (GP)	True	w3D-G5X-jH_	5	w3D-G5X-jH_
+crLkfF965u-	Cytokine Receptors	False	gxo0k68dv4-	5	gxo0k68dv4-
+dSX_tv_pw99	Interferon Receptor	True	gxo0k68dv4-	5	gxo0k68dv4-
+8YE8LBLl4ZA	Interleukin Receptors	False	gxo0k68dv4-	5	gxo0k68dv4-
+pGtsff6QqD_	Interleukin-1 (IL-1) Receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+Hfew5nip8f7	Interleukin-17 (IL-17) Receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+nWPUXJ5c0DC	Interleukin-2 (IL-2) Receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+hJ5DP6I1Rr-	Interleukin-4 (IL-4) Alpha Receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+vHBGFscbFgB	Interleukin-5 alpha receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+fWYy1wzMdE-	Interleukin-6 (IL-6) Receptor	True	8YE8LBLl4ZA	6	8YE8LBLl4ZA
+0uQT04T7sV7	Erythropoietin receptor	True	crLkfF965u-	6	crLkfF965u-
+TbUoZmUfU45	Leptin receptor	True	crLkfF965u-	6	crLkfF965u-
+UD17mvrXO_A	Receptor Activator for Nuclear Factor k B Ligand	True	crLkfF965u-	6	crLkfF965u-
+g2t02vRN8M9	Thrombopoietin Receptor	True	crLkfF965u-	6	crLkfF965u-
+FIsm4UuLKS8	Epidermal Growth Factor (EGFR) Receptors	False	pe8r55cqCfB	5	pe8r55cqCfB
+vCv5dDPG-g6	EGFR Receptor 1 Protein (HER1)	True	FIsm4UuLKS8	6	FIsm4UuLKS8
+tWHUMfevSrF	EGFR Receptor 2 Protein (HER2)	True	FIsm4UuLKS8	6	FIsm4UuLKS8
+p-3IpW9B8_7	EGFR Receptor 4 Protein (HER4)	True	FIsm4UuLKS8	6	FIsm4UuLKS8
+GBalyDtYcgD	ErbB1	True	FIsm4UuLKS8	6	FIsm4UuLKS8
+dLCS4ozQJF6	Colony stimulating factor 1 receptor (CSF1R)	True	HYQM5_uV10C	5	HYQM5_uV10C
+pGS2B4S6BZ4	CD11a Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+6UF4vCJSGi4	CD123 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+cEScxc0mKXG	CD19 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+64NCtsNzPS_	CD2 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+S5StS36MNwH	CD20 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+7mFGKAvSM8E	CD3 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+UWwsQ7QtlA9	CD33 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+ROlQB7TRv7_	CD52 Antigen	True	ee_QmAatLC5	5	ee_QmAatLC5
+9ZpvJ1CdA89	CD79b antigene	True	ee_QmAatLC5	5	ee_QmAatLC5
+sKpU2mQLDmB	5-Hydroxytryptamine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+KdoqNDCb48_	Adenosine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+-VW30v7sLkC	Adrenoceptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+_ItHhyRTYq_	Angiotensin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+BOVtyIj-1R4	Bradykinin Receptors	True	OTE442Gh9AF	4	OTE442Gh9AF
+3t2E5zXktL6	Calcitonin-Type Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+1p4AzkA43CD	Calcium-sensing receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+0TdV0mLxGK5	Cannabinoid Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+DZSWgauGbQB	Chemokine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+DuK17CY4GZE	Corticotropin-Releasing Factor Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+hd2tsLIRCPD	Dopamine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+8F91cWCSDQ4	Endothelin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+DYidOPJKpK8	GABA-B Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+NvHgRxRgMCH	Glucagon Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+XC9aT-lMkE_	Glucagon-like Peptide (GLP) Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+pPxAXnpITR9	Glycoprotein Hormone Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+I37yUyu-BxD	Gonadotropin Releasing Hormone (GnRH) Receptors	True	OTE442Gh9AF	4	OTE442Gh9AF
+ghaPxmlzHw7	Growth Hormone (GH) Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+e5Izgb52nn4	Growth Hormone Secretagogue Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+I8erBAXcnmB	Histamine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+75PilyJBprB	IP Prostacyclin Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+pJsgt3W60g8	Leukotriene Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+P5KgtgnFjR-	Melanocortin receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+PemrFPsZyNH	Melatonin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+OySS1TZQmaH	Muscarinic Acetylcholine Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+VErrzLZz1pF	Opioid and Opioid-like Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+10G72DJtGZ-	Orexin Receptors	True	OTE442Gh9AF	4	OTE442Gh9AF
+OImCl28A0JF	P2 Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+57KYCt0ni1G	Parathyroid Hormone Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+hMjFn1lDRPF	Prostanoid Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+3UoMx3SPFT8	Protease-activated receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+uUknbMsGhdF	Smoothened Protein	True	OTE442Gh9AF	4	OTE442Gh9AF
+MWGnQ2AuYRB	Somatostatin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+ymor8d-W80B	Sphingosine 1-Phosphate Receptor	True	OTE442Gh9AF	4	OTE442Gh9AF
+iRJKuGXIGK5	Tachykinin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+Z6HFeis3IaA	Thyrotropin-Releasing Hormone Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+nmFWo_3kcNH	Vasopressin-Oxytocin Receptors	False	OTE442Gh9AF	4	OTE442Gh9AF
+2gVIQqnGw8-	V-1 Vasopressin Receptors	False	nmFWo_3kcNH	5	nmFWo_3kcNH
+OfrJLMcUTaE	V-2 Vasopressin Receptor	True	nmFWo_3kcNH	5	nmFWo_3kcNH
+hv0CEFhuck_	OT Oxytocin Receptor	True	2gVIQqnGw8-	6	2gVIQqnGw8-
+nnvQb9PaKSC	V-1A Vasopressin Receptor	True	2gVIQqnGw8-	6	2gVIQqnGw8-
+moxPO9KdrIA	V-1B Vasopressin Receptor	True	2gVIQqnGw8-	6	2gVIQqnGw8-
+labwGkpfgNF	TRH-1 Thyrotropin-Releasing Hormone Receptor	True	Z6HFeis3IaA	5	Z6HFeis3IaA
+mYazSXuXC49	TRH-2 Thyrotropin-Releasing Hormone Receptor	True	Z6HFeis3IaA	5	Z6HFeis3IaA
+YdPcawh_Zr8	NK-1 Tachykinin Receptor	True	iRJKuGXIGK5	5	iRJKuGXIGK5
+ZpiLaPBqj_A	SST-1 Somatostatin Receptor	True	MWGnQ2AuYRB	5	MWGnQ2AuYRB
+1MRRtk0xZCC	SST-2 Somatostatin Receptors	True	MWGnQ2AuYRB	5	MWGnQ2AuYRB
+bp_Z7MHBhLG	SST-3 Somatostatin Receptor	True	MWGnQ2AuYRB	5	MWGnQ2AuYRB
+cJOBsLqsfxA	SST-4 Somatostatin Receptor	True	MWGnQ2AuYRB	5	MWGnQ2AuYRB
+dpcocKNYeX7	SST-5 Somatostatin Receptor	True	MWGnQ2AuYRB	5	MWGnQ2AuYRB
+o3L_puU7bz-	Protease-activated receptor 1	True	3UoMx3SPFT8	5	3UoMx3SPFT8
+ZE7xADhwla-	EP Prostanoid Receptors	False	hMjFn1lDRPF	5	hMjFn1lDRPF
+f6GUXF1K3BH	FP Prostanoid Receptor	True	hMjFn1lDRPF	5	hMjFn1lDRPF
+cRp9x-RNlv4	IP Prostanoid Receptor	True	hMjFn1lDRPF	5	hMjFn1lDRPF
+cqvNGvG8RI9	EP-1 Prostanoid Receptor	True	ZE7xADhwla-	6	ZE7xADhwla-
+d27hEIMMLf7	EP-2 Prostanoid Receptor	True	ZE7xADhwla-	6	ZE7xADhwla-
+eCI2ChRcE25	EP-3 Prostanoid Receptor	True	ZE7xADhwla-	6	ZE7xADhwla-
+fOUKB6Ws9M4	EP-4 Prostanoid Receptor	True	ZE7xADhwla-	6	ZE7xADhwla-
+foLP9Z7o_qF	PTH-1 Parathyroid Hormone Receptor	True	57KYCt0ni1G	5	57KYCt0ni1G
+5ES9VJVXN0-	P2Y Receptors	False	OImCl28A0JF	5	OImCl28A0JF
+E45wMSLvxbH	P2Y12 Receptor	True	5ES9VJVXN0-	6	5ES9VJVXN0-
+uNX8YyI5EYB	Delta Opioid Peptide Receptors	True	VErrzLZz1pF	5	VErrzLZz1pF
+KOZnHzm57JH	Kappa Opioid Receptors	True	VErrzLZz1pF	5	VErrzLZz1pF
+jQQuTJ0hWGD	Mu Opioid Receptors	True	VErrzLZz1pF	5	VErrzLZz1pF
+6CqbnWs-Fk7	Nociceptin-Orphanin FQ Peptide Receptor	True	VErrzLZz1pF	5	VErrzLZz1pF
+zlZNJVAlT0A	M1 Muscarinic Acetylcholine Receptor	True	OySS1TZQmaH	5	OySS1TZQmaH
+0t70QJTQHKA	M2 Muscarinic Acetylcholine Receptor	True	OySS1TZQmaH	5	OySS1TZQmaH
+11dcY9l76f_	M3 Muscarinic Acetylcholine Receptor	True	OySS1TZQmaH	5	OySS1TZQmaH
+29_Dgx4mu1-	M4 Muscarinic Acetylcholine Receptor	True	OySS1TZQmaH	5	OySS1TZQmaH
+3FirnlLSiL-	M5 Muscarinic Acetylcholine Receptor	True	OySS1TZQmaH	5	OySS1TZQmaH
+MIGaoaFbNt7	MT-1 Melatonin Receptor	True	PemrFPsZyNH	5	PemrFPsZyNH
+NupwzenUzv6	MT-2 Melatonin Receptor	True	PemrFPsZyNH	5	PemrFPsZyNH
+OUNH_iJOZy5	MT-3 Melatonin Receptor	True	PemrFPsZyNH	5	PemrFPsZyNH
+2Kn4st39ln-	Melanocortin 1 receptor	True	P5KgtgnFjR-	5	P5KgtgnFjR-
+gD-ItpB2BLE	CysLT-1 Leukotriene Receptor	True	pJsgt3W60g8	5	pJsgt3W60g8
+jDIjbAU1FR-	H-1 Histamine Receptor	True	I8erBAXcnmB	5	I8erBAXcnmB
+kpr5mE2urT9	H-2 Histamine Receptor	True	I8erBAXcnmB	5	I8erBAXcnmB
+lPPQyIYoRW8	H-3 Histamine Receptor	True	I8erBAXcnmB	5	I8erBAXcnmB
+RBY8z22jDrH	FSH Receptor	True	pPxAXnpITR9	5	pPxAXnpITR9
+LvcPppwofG7	LSH Receptor	True	pPxAXnpITR9	5	pPxAXnpITR9
+GLoe24R2SxH	Glucagon-like Peptide (GLP) Receptor 1	True	XC9aT-lMkE_	5	XC9aT-lMkE_
+Fkd9JI_pg8D	Glucagon-like Peptide (GLP) Receptor 2	True	XC9aT-lMkE_	5	XC9aT-lMkE_
+OaP-68yrJE9	ET-A Endothelin Receptor	True	8F91cWCSDQ4	5	8F91cWCSDQ4
+gqpiluws1eE	ET-B Endothelin Receptors	True	8F91cWCSDQ4	5	8F91cWCSDQ4
+XMVgP792cY8	D1-like Dopamine Receptors	False	hd2tsLIRCPD	5	hd2tsLIRCPD
+YumI_wcqjYA	D2-like Dopamine Receptors	False	hd2tsLIRCPD	5	hd2tsLIRCPD
+Wkw8VzpVZQ4	D2 Dopamine Receptor	True	YumI_wcqjYA	6	YumI_wcqjYA
+VXXPquf7Fm_	D3 Dopamine Receptor	True	YumI_wcqjYA	6	YumI_wcqjYA
+UK-h-pVhy7G	D4 Dopamine Receptor	True	YumI_wcqjYA	6	YumI_wcqjYA
+WP4BSCV8l68	D1 Dopamine Receptor	True	XMVgP792cY8	6	XMVgP792cY8
+SbTMjvsTYR6	D5 Dopamine Receptor	True	XMVgP792cY8	6	XMVgP792cY8
+qzvROxvhBk5	CRF-1 Corticotropin-Releasing Factor Receptor	True	DuK17CY4GZE	5	DuK17CY4GZE
+rvzUTPaD4C_	CRF-2 Corticotropin-Releasing Factor Receptor	True	DuK17CY4GZE	5	DuK17CY4GZE
+OMwW2aiCAE_	CC Chemokine Receptors	False	DZSWgauGbQB	5	DZSWgauGbQB
+Ku9I2vp0UM-	CXC Chemokine Receptors	False	DZSWgauGbQB	5	DZSWgauGbQB
+L7VgorFH3xF	CXCR1 Chemokine Receptor	True	Ku9I2vp0UM-	6	Ku9I2vp0UM-
+MJ90owUwzYF	CXCR2 Chemokine Receptor	True	Ku9I2vp0UM-	6	Ku9I2vp0UM-
+BICqsbMc3LF	CC Chemokine Receptor type 4 (CCR4)	True	OMwW2aiCAE_	6	OMwW2aiCAE_
+EjbGw1XQnTF	CB-1 Cannabinoid Receptor	True	0TdV0mLxGK5	5	0TdV0mLxGK5
+FFtufr2DuT5	CB-2 Cannabinoid Receptor	True	0TdV0mLxGK5	5	0TdV0mLxGK5
+DHwRp1a3J7B	Adrenomedullin Receptor	True	3t2E5zXktL6	5	3t2E5zXktL6
+CJ_zVB7VIHH	Amylin Receptor	True	3t2E5zXktL6	5	3t2E5zXktL6
+0M-4zBRDBDC	Calcitonin Gene-Related Peptide Receptor	True	3t2E5zXktL6	5	3t2E5zXktL6
+17bXAL1N1wH	Calcitonin Receptors	True	3t2E5zXktL6	5	3t2E5zXktL6
+vPwH57LuwEH	AT-1 Angiotensin Receptors	True	_ItHhyRTYq_	5	_ItHhyRTYq_
+Zql2TqB-bv8	AT-2 Angiotensin Receptor	True	_ItHhyRTYq_	5	_ItHhyRTYq_
+wTLZM5eaMWH	Alpha Adrenoceptors	False	-VW30v7sLkC	5	-VW30v7sLkC
+U_S89_fl2BD	Beta Adrenoceptors	False	-VW30v7sLkC	5	-VW30v7sLkC
+dKbA_GXFj-G	Beta-1 Adrenoceptor	True	U_S89_fl2BD	6	U_S89_fl2BD
+crsn14y8PXC	Beta-2 Adrenoceptor	True	U_S89_fl2BD	6	U_S89_fl2BD
+bM-OsqO08v9	Beta-3 Adrenoceptor	True	U_S89_fl2BD	6	U_S89_fl2BD
+e6flLvFa42B	Alpha-1 Adrenoceptors	False	wTLZM5eaMWH	6	wTLZM5eaMWH
+dduKFb0LSt4	Alpha-2 Adrenoceptors	False	wTLZM5eaMWH	6	wTLZM5eaMWH
+e08iH-uz_Z7	Alpha-2A Adrenoceptor	True	dduKFb0LSt4	7	dduKFb0LSt4
+k7B7uXx_5C7	Alpha-2B Adrenoceptors	True	dduKFb0LSt4	7	dduKFb0LSt4
+gEByWmUKnF6	Alpha-2C Adrenoceptor	True	dduKFb0LSt4	7	dduKFb0LSt4
+gYIDu-eauF-	Alpha-1A Adrenoceptor	True	e6flLvFa42B	7	e6flLvFa42B
+jwu5EbXcJH8	Alpha-1D Adrenoceptor	True	e6flLvFa42B	7	e6flLvFa42B
+ct5jiZdPxK5	A-1 Adenosine Receptor	True	KdoqNDCb48_	5	KdoqNDCb48_
+A5JwybYLuZ6	A-2 Adenosine Receptors	False	KdoqNDCb48_	5	KdoqNDCb48_
+e5AR5hhC9PH	A-3 Adenosine Receptor	True	KdoqNDCb48_	5	KdoqNDCb48_
+yju15KGwH5A	A-2A Adenosine Receptor	True	A5JwybYLuZ6	6	A5JwybYLuZ6
+zxVK6PVZEgA	A-2B Adenosine Receptor	True	A5JwybYLuZ6	6	A5JwybYLuZ6
+mS3v3_XUOYF	5-HT-1 Receptors	False	sKpU2mQLDmB	5	sKpU2mQLDmB
+lt58CH68h74	5-HT-2 Receptors	False	sKpU2mQLDmB	5	sKpU2mQLDmB
+kI8JOOcl1e8	5-HT-3 Receptors	True	sKpU2mQLDmB	5	sKpU2mQLDmB
+jj-WZV-NJCA	5-HT-4 Receptors	True	sKpU2mQLDmB	5	sKpU2mQLDmB
+i-Akkcg2clD	5-HT-5 Receptors	True	sKpU2mQLDmB	5	sKpU2mQLDmB
+g0F-6qkHEs6	5-HT-7 Receptors	True	sKpU2mQLDmB	5	sKpU2mQLDmB
+Q6rfu9XEA9G	5-HT-2A Receptor	True	lt58CH68h74	6	lt58CH68h74
+PlGcoJGQlIG	5-HT-2B Receptor	True	lt58CH68h74	6	lt58CH68h74
+OQhYiV0bKUF	5-HT-2C Receptor	True	lt58CH68h74	6	lt58CH68h74
+QLZ0gIY5FAH	5-HT-1A Receptor	True	mS3v3_XUOYF	6	mS3v3_XUOYF
+P2zwaUGFrLG	5-HT-1B Receptor	True	mS3v3_XUOYF	6	mS3v3_XUOYF
+NMppOsic1iE	5-HT-1D Receptor	True	mS3v3_XUOYF	6	mS3v3_XUOYF
+M3DmI4QoauD	5-HT-1E Receptor	True	mS3v3_XUOYF	6	mS3v3_XUOYF
+LieiCE_z_5C	5-HT-1F Receptor	True	mS3v3_XUOYF	6	mS3v3_XUOYF
+MacV7kCJI2-	Adhesion proteins	False	0EI5zSKofS8	3	0EI5zSKofS8
+1XUkdlO14_A	Antiapoptotic protein	False	0EI5zSKofS8	3	0EI5zSKofS8
+RdyYwaGqnu-	Colony-stimulating Factors (CSFs)	False	0EI5zSKofS8	3	0EI5zSKofS8
+69GyQHqJJNC	Complement protein C5	True	0EI5zSKofS8	3	0EI5zSKofS8
+-q7MBYzcOa8	Cytokines	False	0EI5zSKofS8	3	0EI5zSKofS8
+O17Lu8t-bxC	Exportin 1 (XPO1)	True	0EI5zSKofS8	3	0EI5zSKofS8
+Q66pAsdlYK9	Growth Factor Receptors	False	0EI5zSKofS8	3	0EI5zSKofS8
+m_bAUAGUpEF	Growth factors	False	0EI5zSKofS8	3	0EI5zSKofS8
+WohNLF3qo7B	Integrin lymphocyte function-associated antigen-1	True	0EI5zSKofS8	3	0EI5zSKofS8
+eY8KEg4Ov87	Interleukins	False	0EI5zSKofS8	3	0EI5zSKofS8
+M6vjWsoX6DF	Orthopoxvirus VP37 envelope wrapping protein	True	0EI5zSKofS8	3	0EI5zSKofS8
+Z9iEpKqd14_	P-selectin	True	0EI5zSKofS8	3	0EI5zSKofS8
+5dr68k5ucLD	Programmed death ligand-1 (PD-L1)	True	0EI5zSKofS8	3	0EI5zSKofS8
+odoOzhdILZ9	Proprotein Convertase Subtilisin Kexin Type 9 (PCSK9)	True	0EI5zSKofS8	3	0EI5zSKofS8
+H6PoUmx5Wu9	Sclerostin	True	0EI5zSKofS8	3	0EI5zSKofS8
+x0eiepZLZLC	Signaling Lymphocytic Activation Molecule Family member 7 (SLAMF7) protein	True	0EI5zSKofS8	3	0EI5zSKofS8
+RbWDIKuFHiE	Smoothened	True	0EI5zSKofS8	3	0EI5zSKofS8
+Koh-4CWQoJ8	TGF-beta superfamily ligands	True	0EI5zSKofS8	3	0EI5zSKofS8
+iLfFJuisv58	Transport proteins	False	0EI5zSKofS8	3	0EI5zSKofS8
+AfFjgM_UF_H	Tumor Necrosis Factor (TNF)	True	0EI5zSKofS8	3	0EI5zSKofS8
+cavp94l2ErH	Transthyretin	True	iLfFJuisv58	4	iLfFJuisv58
+lYHUgkVfOTG	Interleukin-17A (IL-17A)	True	eY8KEg4Ov87	4	eY8KEg4Ov87
+zZq-jWq5AF_	Interleukin-23 (IL-23)	True	eY8KEg4Ov87	4	eY8KEg4Ov87
+ZL39yxDAFyE	Interleukin-5 (IL-5)	True	eY8KEg4Ov87	4	eY8KEg4Ov87
+aEg9Eaw51-5	Fibroblast growth factors	False	m_bAUAGUpEF	4	m_bAUAGUpEF
+PHHua78ojWH	Vascular endothelial growth factor	False	m_bAUAGUpEF	4	m_bAUAGUpEF
+nBURPNjWh85	Vascular endothelial growth factor A	True	PHHua78ojWH	5	PHHua78ojWH
+V7WrG3tn_f7	Fibroblast growth factor 23 (FGF23)	True	aEg9Eaw51-5	5	aEg9Eaw51-5
+2LQD_yNEU8G	Nerve Growth Factor Receptors	True	Q66pAsdlYK9	4	Q66pAsdlYK9
+YAo-Cah2u09	Interferons	False	-q7MBYzcOa8	4	-q7MBYzcOa8
+8C-jsbL3GQ8	Interferon gamma	True	YAo-Cah2u09	5	YAo-Cah2u09
+5LPtYtfvWu4	Granulocyte Colony-Stimulating Factor (CSF-3)	True	RdyYwaGqnu-	4	RdyYwaGqnu-
+e9yjDuYzwXE	Granulocyte-macrophage Colony-stimulating Factor (CSF-2)	True	RdyYwaGqnu-	4	RdyYwaGqnu-
+Zd_oZJD8vc4	Macrophage Colony-Stimulating Factor (CSF-1)	True	RdyYwaGqnu-	4	RdyYwaGqnu-
+CmPtNZeaXl_	BCL-2	True	1XUkdlO14_A	4	1XUkdlO14_A
+HyfFTl3XvRG	Nectin-4	True	MacV7kCJI2-	4	MacV7kCJI2-
+eHaRW6hIXzH	ApoC-III mRNA	True	Ubw6GdrSgV5	3	Ubw6GdrSgV5
+wB5faRp9WdC	Exon 53 of dystrophin pre-mRNA	True	Ubw6GdrSgV5	3	Ubw6GdrSgV5
+XFfCYHMndi9	Calcium Channels	False	sOM7VDl-53-	3	sOM7VDl-53-
+ORwHgsvtYg6	Potassium Channels	False	sOM7VDl-53-	3	sOM7VDl-53-
+AZfTnIdW_6F	Sodium Channels	False	sOM7VDl-53-	3	sOM7VDl-53-
+ecCQT1PXpHF	Voltage-Gated Sodium Channels	True	AZfTnIdW_6F	4	AZfTnIdW_6F
+hkPwYkiIfR_	Calcium-Sensitive Potassium Channels	False	ORwHgsvtYg6	4	ORwHgsvtYg6
+oZabPCDD1O9	Inwardly Rectifying Potassium Channels	False	ORwHgsvtYg6	4	ORwHgsvtYg6
+9xCCE47_AdH	Two-Pore Domain Potassium Channels	False	ORwHgsvtYg6	4	ORwHgsvtYg6
+TVuKRb6URSE	Voltage-Sensitive Potassium Channels	True	ORwHgsvtYg6	4	ORwHgsvtYg6
+fksNOAgHn87	TRAAK Potassium Channel	True	9xCCE47_AdH	5	9xCCE47_AdH
+E068rA-qZb9	TREK-1 Potassium Channel	True	9xCCE47_AdH	5	9xCCE47_AdH
+p0qM8LDpXgD	Kir6.2 Inwardly Rectifying Potassium Channel	True	oZabPCDD1O9	5	oZabPCDD1O9
+g77OascrLgA	IK-Ca Intermediate Conductance Calcium Activated Potassium Channel	True	hkPwYkiIfR_	5	hkPwYkiIfR_
+WLK7mznQEA-	SK-Ca2 Small Conductance Calcium Activated Potassium Channel	True	hkPwYkiIfR_	5	hkPwYkiIfR_
+XB1WzQAkRn4	SK-Ca3 Small Conductance Calcium Activated Potassium Channel	True	hkPwYkiIfR_	5	hkPwYkiIfR_
+2OC5XnoBULD	Voltage-Gated Calcium Channels	False	XFfCYHMndi9	4	XFfCYHMndi9
+0bVqutNNYe5	Cav1 Voltage-Gated Calcium Channels	False	2OC5XnoBULD	5	2OC5XnoBULD
+w5dP9pTdfN_	Cav1.1 Voltage-Gated Calcium Channel	True	0bVqutNNYe5	6	0bVqutNNYe5
+xr2_EG-nJvH	Cav1.2 Voltage-Gated Calcium Channel	True	0bVqutNNYe5	6	0bVqutNNYe5
+hoKuRwXP186	Von Willebrand factor	True	uVVj-bBy4YH	3	uVVj-bBy4YH
+PlDFDedNCI8	Glycolipid GD2	True	5qpCvzhq0Y9	3	5qpCvzhq0Y9
+peNRqvP8x8A	Carbonic Anhydrases	False	LOaigUReTj9	3	LOaigUReTj9
+_X6a6rZBYFA	Deacetylases	False	LOaigUReTj9	3	LOaigUReTj9
+Nk12tKIiAEG	Endonucleases	False	LOaigUReTj9	3	LOaigUReTj9
+oWxxabsjtFF	Hydrolases	False	LOaigUReTj9	3	LOaigUReTj9
+pcAvw7MPz8D	Hydroxylases	False	LOaigUReTj9	3	LOaigUReTj9
+vbkthGf-a36	Isomerases	False	LOaigUReTj9	3	LOaigUReTj9
+3c4BcBzD18D	Lyases	False	LOaigUReTj9	3	LOaigUReTj9
+b_e6Gn1ahmA	Neuraminidase	True	LOaigUReTj9	3	LOaigUReTj9
+p4ek20Lb_zA	Nucleic Acid Processing	False	LOaigUReTj9	3	LOaigUReTj9
+rd3SDQq1CYA	Other Enzymes	False	LOaigUReTj9	3	LOaigUReTj9
+OxkA7tU1buH	Oxidoreductases	False	LOaigUReTj9	3	LOaigUReTj9
+gVp7uBy3mmA	Polymerases	False	LOaigUReTj9	3	LOaigUReTj9
+5R9jiDHqU8B	Transferases	False	LOaigUReTj9	3	LOaigUReTj9
+A2ZgqxVjS9-	Acyltransferases	False	5R9jiDHqU8B	4	5R9jiDHqU8B
+Vrg-2ByCeN9	Glucosylceramide synthase	False	5R9jiDHqU8B	4	5R9jiDHqU8B
+CF5a0WXAEH8	Transferases Transferring a One-Carbon Group	False	5R9jiDHqU8B	4	5R9jiDHqU8B
+eoTG_3UZjz8	Transferases Transferring Alkyl or Aryl Groups Other Than Methyl	False	5R9jiDHqU8B	4	5R9jiDHqU8B
+-1FpDFyFxV6	Transferases Transferring Phosphorus-Containing Groups	False	5R9jiDHqU8B	4	5R9jiDHqU8B
+cvFKOA1dlT5	DNA Polymerases	False	-1FpDFyFxV6	5	-1FpDFyFxV6
+R5thyr1_Ij6	Kinases	False	-1FpDFyFxV6	5	-1FpDFyFxV6
+bK37EJ7yxo9	Phosphatidylinositol 3-kinases	False	-1FpDFyFxV6	5	-1FpDFyFxV6
+OAN_U5ZODB9	Protein Kinases	False	-1FpDFyFxV6	5	-1FpDFyFxV6
+UGwtCz413V8	Mitogen-activated protein kinase kinases	False	OAN_U5ZODB9	6	OAN_U5ZODB9
+ifyCFK77YjH	Mitogen-activated protein kinase kinase 1	True	UGwtCz413V8	7	UGwtCz413V8
+jLu4EGyF4-E	Mitogen-activated protein kinase kinase 2	True	UGwtCz413V8	7	UGwtCz413V8
+n7FxYAALZ79	Phosphatidylinositol 3-kinase delta	True	bK37EJ7yxo9	6	bK37EJ7yxo9
+208uGpWNSSC	Phosphatidylinositol 3-kinase gamma	True	bK37EJ7yxo9	6	bK37EJ7yxo9
+90meUDr3kF-	Cyclin-dependent kinases (CDK)	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+IcPohEOW3e4	MAP Kinases	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+dREIV_ssbID	Phosphatidylinositide 3-kinases	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+gmRdRTUT3mH	Rho kinase	True	R5thyr1_Ij6	6	R5thyr1_Ij6
+NsWMt2pG8SC	Serine-Threonine Kinases	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+HJgX-YkwgXA	Thymidine Kinases	True	R5thyr1_Ij6	6	R5thyr1_Ij6
+fJ3yNda6XeA	Tropomyosin receptor kinases (TRK)	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+LzS3-6WpIQ9	Tyrosine Kinases	False	R5thyr1_Ij6	6	R5thyr1_Ij6
+KvzkfFqEAR6	Abl Kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+1_9ZmTvnCv9	Activated CDC42 kinase 1	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+W8ctkxhLs4H	Anaplastic lymphoma kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+GkJuXmxEBOA	Bcr-Abl kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+0nMSP1IP6oG	Bruton tyrosine kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+dKElX5wOVe7	Cyclin-dependent kinase (CDK) 4 and 6	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+xyXCUxlCYD9	FMS-like tyrosine kinase 3	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+MdeJibzIQ3E	JAK Kinases	False	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+JBkai4_YiPE	KIT proto-oncogene receptor tyrosine kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+Aa392TY5SO6	Proto-oncogene tyrosine-protein kinase ROS1	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+iPzHk-xzkt8	Receptor tyrosine kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+hfvanPAd2a5	ROS1 tyrosine kinase	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+LjpYc8_72i7	Tyrosine-protein kinase SYK	True	LzS3-6WpIQ9	7	LzS3-6WpIQ9
+voFXZCfQF4F	JAK1 Kinase	True	MdeJibzIQ3E	8	MdeJibzIQ3E
+uvysNuCZSC7	JAK2 Kinase	True	MdeJibzIQ3E	8	MdeJibzIQ3E
+GBovNtnT3v_	Tropomyosin receptor kinase A (TRKA)	True	fJ3yNda6XeA	7	fJ3yNda6XeA
+EVJJ-4AHFZ7	Tropomyosin receptor kinase B (TRKB)	True	fJ3yNda6XeA	7	fJ3yNda6XeA
+CpqiuEa6SCH	Tropomyosin receptor kinase C (TRKC)	True	fJ3yNda6XeA	7	fJ3yNda6XeA
+w5wk8X-DFuB	BRAF Serine-Threonine Kinases Mutated	True	NsWMt2pG8SC	7	NsWMt2pG8SC
+cwznA5VVIN-	Phosphatidylinositide 3-kinase alpha	True	dREIV_ssbID	7	dREIV_ssbID
+irvHOoI0B3F	Phosphatidylinositide 3-kinase delta	True	dREIV_ssbID	7	dREIV_ssbID
+YHqKSJRL9PC	ERK MAP Kinase	False	IcPohEOW3e4	7	IcPohEOW3e4
+6cTys4LHWe-	MEK1 Kinase	True	YHqKSJRL9PC	8	YHqKSJRL9PC
+5hLzqf_PB2H	MEK2 Kinase	True	YHqKSJRL9PC	8	YHqKSJRL9PC
+ajsNmt3gOA7	Cyclin-dependent kinase 4 (CDK4)	True	90meUDr3kF-	7	90meUDr3kF-
+W7mKARVU6f6	Cyclin-dependent kinase 6 (CDK6)	True	90meUDr3kF-	7	90meUDr3kF-
+RNPXpnEMs8C	HCV NS5B polymerase	True	cvFKOA1dlT5	6	cvFKOA1dlT5
+60oXyf_X-W7	Polyadenosine 5’-diphosphoribose polymerases (PARP)	False	cvFKOA1dlT5	6	cvFKOA1dlT5
+8xj5LZBII1D	Polyadenosine 5’-diphosphoribose polymerase 1 (PARP-1)	True	60oXyf_X-W7	7	60oXyf_X-W7
+-pajEp0HyJ8	Polyadenosine 5’-diphosphoribose polymerase 2 (PARP-2)	True	60oXyf_X-W7	7	60oXyf_X-W7
+AiRN94nHceE	Polyadenosine 5’-diphosphoribose polymerase 3 (PARP-3)	True	60oXyf_X-W7	7	60oXyf_X-W7
+fQYySa8RQq6	Dihydropteroate Synthase	True	eoTG_3UZjz8	5	eoTG_3UZjz8
+s1vpesUb7m4	Catechol-O-Methyltransferase	True	CF5a0WXAEH8	5	CF5a0WXAEH8
+AFHizCDEIfC	Thymidylate Synthase	True	CF5a0WXAEH8	5	CF5a0WXAEH8
+e0XnPh_iHk6	Transferases Transferring a One-Carbon Group	False	Vrg-2ByCeN9	5	Vrg-2ByCeN9
+tVG5EG_qA27	Methyltransferases	False	e0XnPh_iHk6	6	e0XnPh_iHk6
+8RtB63ajfU9	EZH2 methyltransferase	True	tVG5EG_qA27	7	tVG5EG_qA27
+NW-C3qDWHQ8	ATP citrate synthase	True	A2ZgqxVjS9-	5	A2ZgqxVjS9-
+Eo2I9L_lSjD	DNA polymerase III (beta subunit) sliding clamp	False	gVp7uBy3mmA	4	gVp7uBy3mmA
+3831kkbM7iA	Poly (ADP-ribose) polymerase	True	Eo2I9L_lSjD	5	Eo2I9L_lSjD
+6bOBHTSMFs7	5-alpha-Reductase	True	OxkA7tU1buH	4	OxkA7tU1buH
+tyScIqjH2OA	Acting on CH or CH2 groups	False	OxkA7tU1buH	4	OxkA7tU1buH
+PcFcnzJwFu5	Acting on the CH-CH group of donors	False	OxkA7tU1buH	4	OxkA7tU1buH
+a0nMNJsFHAG	Acting on the CH-NH group of donors	False	OxkA7tU1buH	4	OxkA7tU1buH
+b8qcWF1BNTB	Acting on the CH-OH group of donors	False	OxkA7tU1buH	4	OxkA7tU1buH
+R4ZmZNG8WO9	Alcohol Dehydrogenase	True	OxkA7tU1buH	4	OxkA7tU1buH
+BQR-hMNoAlC	Aldose reductase	True	OxkA7tU1buH	4	OxkA7tU1buH
+lVizjypqxL6	Aromatases	False	OxkA7tU1buH	4	OxkA7tU1buH
+zz_hAEg1ZAG	Hydroxymethylglutaryl-CoA Reductase	True	OxkA7tU1buH	4	OxkA7tU1buH
+Hglu9gRFIi9	Lipoxygenase	True	OxkA7tU1buH	4	OxkA7tU1buH
+0mp8bu4oV-5	Monoamine Oxidases	False	OxkA7tU1buH	4	OxkA7tU1buH
+w52efho-fXC	Oxidoreductases Incorporating One Atom of Oxygen	False	OxkA7tU1buH	4	OxkA7tU1buH
+pGynFV12oVE	Squalene Epoxidase	True	OxkA7tU1buH	4	OxkA7tU1buH
+9Da8LVseTH6	Cyclooxygenases	False	w52efho-fXC	5	w52efho-fXC
+HETqzIGad3E	Cytochrome P450 (CYP) Monooxygenase Superfamily	False	w52efho-fXC	5	w52efho-fXC
+N1x9bvn6j9G	Prostaglandin Synthases	True	w52efho-fXC	5	w52efho-fXC
+4REAEylobO6	Cytochrome P450 Monooxygenase 3A	False	HETqzIGad3E	6	HETqzIGad3E
+xU1bYO7O3wB	Cytochrome P450 Monooxygenase 3A4	True	4REAEylobO6	7	4REAEylobO6
+p5167WOpqc_	Cytochrome P450 Monooxygenase 3A4-5	True	4REAEylobO6	7	4REAEylobO6
+syy5IeLvc1C	Cyclooxygenase-2	True	9Da8LVseTH6	6	9Da8LVseTH6
+SkxXv-Y4gp-	Monoamine Oxidase A	True	0mp8bu4oV-5	5	0mp8bu4oV-5
+Tqlpb4ye3s5	Monoamine Oxidase B	True	0mp8bu4oV-5	5	0mp8bu4oV-5
+vhvCbBWQDZ_	Non-steroid Aromatase	True	lVizjypqxL6	5	lVizjypqxL6
+vmooewkv7oD	Steroid Aromatase	True	lVizjypqxL6	5	lVizjypqxL6
+5Mnzs_4FNkE	Isocitrate dehydrogenase	False	b8qcWF1BNTB	5	b8qcWF1BNTB
+0WRdERAiX5F	Isocitrate dehydrogenase-2	True	b8qcWF1BNTB	5	b8qcWF1BNTB
+9bEv0wT9s-F	Isocitrate dehydrogenase-1 mutated	True	5Mnzs_4FNkE	6	5Mnzs_4FNkE
+lENwmZwHAyB	Dihydrofolate reductase	True	a0nMNJsFHAG	5	a0nMNJsFHAG
+XmoPG8R1KWG	Dihydroorotate dehydrogenase	True	PcFcnzJwFu5	5	PcFcnzJwFu5
+q0Z1Yc0X9SA	Xanthine oxidase	True	tyScIqjH2OA	5	tyScIqjH2OA
+9y-coSp2zyH	Formyltransferase	False	rd3SDQq1CYA	4	rd3SDQq1CYA
+bN2Ujmx5mH_	Glycinamide ribonucleotide formyltransferase	True	9y-coSp2zyH	5	9y-coSp2zyH
+IIK60_9PRgD	Adenosine Deaminase (ADA)	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+iNcMcb4bTK4	Bacterial DNA-Dependent RNA Polymerase	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+6j9N37jjy0_	Integrase	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+ND8cfV3WzkA	Reverse Transcriptase	False	p4ek20Lb_zA	4	p4ek20Lb_zA
+Q9Uv6ME1XM9	Ribonucleotide Reductase	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+f6B2XHeld_8	RNA Synthetase	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+5oER9Zq5Yp_	RNA-dependent RNA polymerase	True	p4ek20Lb_zA	4	p4ek20Lb_zA
+fu_A7kZ-DuC	HIV-1 Reverse Transcriptase (RT)	True	ND8cfV3WzkA	5	ND8cfV3WzkA
+-PB_k0JH1VG	Carbon-Carbon Lyases	False	3c4BcBzD18D	4	3c4BcBzD18D
+qzHdXXijeEH	Phosphorous-Oxygen Lyases	False	3c4BcBzD18D	4	3c4BcBzD18D
+lAzaYnKpIs7	Guanylyl Cyclases	False	qzHdXXijeEH	5	qzHdXXijeEH
+kAtZuKAjSa9	Guanylyl Cyclase C	True	lAzaYnKpIs7	6	lAzaYnKpIs7
+K6TlUEMR0q6	Guanylyl Cyclase, Particular	True	lAzaYnKpIs7	6	lAzaYnKpIs7
+Pxh9OmkIPc5	Guanylyl Cyclase, Soluble	True	lAzaYnKpIs7	6	lAzaYnKpIs7
+5LD39jX2M6_	Decarboxylase	False	-PB_k0JH1VG	5	-PB_k0JH1VG
+OaJdR3G-3xA	DOPA Decarboxylase	True	5LD39jX2M6_	6	5LD39jX2M6_
+DGfOJ3xpvY9	Cis-Trans Isomerases	False	vbkthGf-a36	4	vbkthGf-a36
+F8JAZXlzlo6	Topoisomerases	False	vbkthGf-a36	4	vbkthGf-a36
+bMq24P2QQl5	Topoisomerase I	True	F8JAZXlzlo6	5	F8JAZXlzlo6
+CdUgnHOpBjC	Topoisomerase II	True	F8JAZXlzlo6	5	F8JAZXlzlo6
+1ZmJuYO8Db5	Topoisomerase IV	True	F8JAZXlzlo6	5	F8JAZXlzlo6
+_u44jWURkj_	Peptidyl-Prolyl Isomerases	False	DGfOJ3xpvY9	5	DGfOJ3xpvY9
+JP3sWH_D2S_	Cyclophilins	True	_u44jWURkj_	6	_u44jWURkj_
+81uiXPZayNA	FKBPs	True	_u44jWURkj_	6	_u44jWURkj_
+ddjc50cKTOG	Tryptophan hydroxylase	True	pcAvw7MPz8D	4	pcAvw7MPz8D
+w-Z6FSlH7a5	Alpha-glucosidases	True	oWxxabsjtFF	4	oWxxabsjtFF
+Vyrk96HYG26	Epoxide Hydrolases	False	oWxxabsjtFF	4	oWxxabsjtFF
+YkmfqieGZp6	Lipases	True	oWxxabsjtFF	4	oWxxabsjtFF
+6dZsXFFDYgA	Nucleases	False	oWxxabsjtFF	4	oWxxabsjtFF
+4En3L7GwL1_	Peptidases and Proteases	False	oWxxabsjtFF	4	oWxxabsjtFF
+daFLH4cXP3_	Angiotensin - Converting Enzyme-2 (ACE2)	True	4En3L7GwL1_	5	4En3L7GwL1_
+rwsJoDCFGQD	Angiotensin I - Converting Enzyme (ACE)	True	4En3L7GwL1_	5	4En3L7GwL1_
+LXYXBRsCnV9	Coagulation Factors	False	4En3L7GwL1_	5	4En3L7GwL1_
+mL8qmKyrWQ4	Dipeptidyl peptidase	True	4En3L7GwL1_	5	4En3L7GwL1_
+qEnYEQ6RhlG	HCV-protease	False	4En3L7GwL1_	5	4En3L7GwL1_
+V-NqkjlnAg_	HIV-proteases	True	4En3L7GwL1_	5	4En3L7GwL1_
+hG99VZHpaC_	Kallikrein	True	4En3L7GwL1_	5	4En3L7GwL1_
+bDLbUeDQqp6	Renin	True	4En3L7GwL1_	5	4En3L7GwL1_
+THD3427liR4	Serine proteases	False	4En3L7GwL1_	5	4En3L7GwL1_
+7qZYwcd74W5	Factor IXa	True	THD3427liR4	6	THD3427liR4
+hlrMj-l0LD4	Factor X	True	THD3427liR4	6	THD3427liR4
+Uh-cXg8c6D5	Plasmin	True	THD3427liR4	6	THD3427liR4
+D5Yi1ISFOo9	Thrombin as a Target	True	THD3427liR4	6	THD3427liR4
+W1NipriChu4	HCV NS3/4A-protease	True	qEnYEQ6RhlG	6	qEnYEQ6RhlG
+x7wOcxHz-C5	Coagulation Factor IXa as a Target	True	LXYXBRsCnV9	6	LXYXBRsCnV9
+owtjI3kMldF	Coagulation Factor VIIa as a Target	True	LXYXBRsCnV9	6	LXYXBRsCnV9
+IxfPN8GCk27	Coagulation Factor Xa	True	LXYXBRsCnV9	6	LXYXBRsCnV9
+IaS_jCwj1SF	Coagulation Factor XIIa	True	LXYXBRsCnV9	6	LXYXBRsCnV9
+ANdGQ8uu5aB	DNA terminase complex	True	6dZsXFFDYgA	5	6dZsXFFDYgA
+l5GnzRoHcg4	Esterases	False	Vyrk96HYG26	5	Vyrk96HYG26
+TtBV8E5g15B	Acetylcholinesterase	True	l5GnzRoHcg4	6	l5GnzRoHcg4
+iznsaL-voQ_	Cyclic Nucleotide Phosphodiesterases	False	l5GnzRoHcg4	6	l5GnzRoHcg4
+mI9lt_1a114	Phospholipases	False	l5GnzRoHcg4	6	l5GnzRoHcg4
+5KOQbiqLO1C	Pseudocholinesterase	True	l5GnzRoHcg4	6	l5GnzRoHcg4
+jv9C1YQZk7A	Phospholipase A2	True	mI9lt_1a114	7	mI9lt_1a114
+yYSrVknZJg6	Phosphodiesterase 3	True	iznsaL-voQ_	7	iznsaL-voQ_
+0Q79s_hT5m5	Phosphodiesterase 5	True	iznsaL-voQ_	7	iznsaL-voQ_
+wvUGEV_Vfd-	Phosphodiesterases 4	False	iznsaL-voQ_	7	iznsaL-voQ_
+bvm0Tt1-jUG	Phosphodiesterase 4B	True	wvUGEV_Vfd-	8	wvUGEV_Vfd-
+8MXOOq5mJD4	Polymerase acidic (PA) endonuclease	True	Nk12tKIiAEG	4	Nk12tKIiAEG
+HwUzT9UuwO_	Histone Deacetylases	True	_X6a6rZBYFA	4	_X6a6rZBYFA
+WsvL9Z2KdQ5	Alpha-carbonic anhydrases	False	peNRqvP8x8A	4	peNRqvP8x8A
+4tE7Cld-OPH	Carbonic Anhydrase I	True	WsvL9Z2KdQ5	5	WsvL9Z2KdQ5
+Hsu9DiAf5n7	Carbonic Anhydrase II	True	WsvL9Z2KdQ5	5	WsvL9Z2KdQ5
+6saDeTyJDVB	Carbonic Anhydrase IV	True	WsvL9Z2KdQ5	5	WsvL9Z2KdQ5
+GgiIllUf-49	5-Hydroxytryptamine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+0HI083NArKA	Accessory Adhesion Activator	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+SYOEJYHNhY9	Accessory Adhesion Activator Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+awmZz65nqM7	Acetylcholine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+k2JVqjBTsI4	Adenosine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+NriXzR952y6	Adrenaline Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ygfpj_9ehI6	Aldosterone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+OpMOxyTWgr4	Androgen Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ZY26LFb9s6C	Angiotensin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+Xq4TAudfJFA	ATP Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+bZX29flqaa7	Bradykinin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+mC7VythFsTG	Calcitonin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+haGxlGq9108	Cannabis Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+dgBUANsUM4_	Chemokine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+J2iYsbViK7E	Corticotropin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+kef6228qe87	Cytokine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+7opD5Fm831B	Dopamine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+W73ecoJ97a4	Endothelin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+56-7suvkfe4	Epinephrine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+dyQX_hQa004	ErbB family Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+dKeVFB4do8C	Estrogen Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+xmo2F5znEOE	GABA Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ymLbBQfYCe7	Glucagon Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+xhXiD0ct2TD	Glucagon-like Peptide (GLP) Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ENP4zMgDP_E	Glucocorticoid Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+yCFmJ6PqFNH	Glutamate Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+DLMGNLDCN77	Glycoprotein Hormone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+iUGPfLjIf8B	Gonadotropin Releasing Hormone (GNRH) Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+faL22AgZ2eB	Growth Hormone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+RwbCvJs_I-A	GTP Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+iZ_4DuAN70D	Histamine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+pX3TDmle-57	Imidazoline Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+KHSEfj_nvvA	Insulin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ktWtTtSbDi7	Integrin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+0REFmp40frF	Interferon Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+JFMmJk_STq6	Keratinocyte Growth Factor (KGFR) Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+DFTng4Z_IOF	Leukotriene Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+poL0ZIQcdh7	Melanocortin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+pN9vAbJlGnE	Melatonin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+3cdLedx-iaA	Neurotrophin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+ml3GE3xUM8D	Noradrenaline Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+gZkhLag-kq4	Norepinephrine Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+aU3Agxrc7L-	Nucleotide Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+TXlA5C93dfF	Parathyroid Hormone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+99JL64J58j5	Progesterone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+Tve_8buIVA7	Prostacyclin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+7XY4b1wYQI6	Prostanoid Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+6t4MPVeVR-F	Retinoic Acid Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+rd2LGGXwOHC	Serotonin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+N-_62ZUjb9_	Sphingosine 1-Phosphate Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+86lvcf9OVgH	Tachykinin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+zVVZLGQKAeA	Thyrotropin-Releasing Hormone Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+6NRJyqaT9AE	Vascular Endothelial Growth Factor Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+Bmv2thVDma4	Vasopressin-Oxytocin Targets	False	zv_C0_pvfv-	2	zv_C0_pvfv-
+orBacItwKtC	Vasopressin-Oxytocin Receptors	False	Bmv2thVDma4	3	Bmv2thVDma4
+ZAs3mFo-YR6	V-1 Vasopressin Receptors	False	orBacItwKtC	4	orBacItwKtC
+BaUMteVlDXC	V-2 Vasopressin Receptor	True	orBacItwKtC	4	orBacItwKtC
+ucbcteJQUWB	OT Oxytocin Receptor	True	ZAs3mFo-YR6	5	ZAs3mFo-YR6
+oqYJk9STSW8	V-1A Vasopressin Receptor	True	ZAs3mFo-YR6	5	ZAs3mFo-YR6
+poXMwwXL0AF	V-1B Vasopressin Receptor	True	ZAs3mFo-YR6	5	ZAs3mFo-YR6
+VYhs4CcO9q6	Vascular Endothelial Growth Factor Receptors (VEGFR)	False	6NRJyqaT9AE	3	6NRJyqaT9AE
+5GwZsO16huB	Vascular Endothelial Growth Factor Receptor 2 (VEGFR2)	True	VYhs4CcO9q6	4	VYhs4CcO9q6
+-OA95laCPuG	Thyrotropin-Releasing Hormone Receptors	False	zVVZLGQKAeA	3	zVVZLGQKAeA
+K3ttggJbP_C	TRH-1 Thyrotropin-Releasing Hormone Receptor	True	-OA95laCPuG	4	-OA95laCPuG
+LrtpgA0aOf8	TRH-2 Thyrotropin-Releasing Hormone Receptor	True	-OA95laCPuG	4	-OA95laCPuG
+yal-s0YQdVF	NK-1 Tachykinin Receptor	True	86lvcf9OVgH	3	86lvcf9OVgH
+xBuCcpcJ4BG	Sphingosine 1-Phosphate Receptor	True	N-_62ZUjb9_	3	N-_62ZUjb9_
+JB4LC3IM9-6	5-Hydroxytryptamine Receptors	False	rd2LGGXwOHC	3	rd2LGGXwOHC
+Xxq_zd_KIGH	SERT, Serotonin Transporter	True	rd2LGGXwOHC	3	rd2LGGXwOHC
+DNL_lD2lBOB	5-HT-1 Receptors	False	JB4LC3IM9-6	4	JB4LC3IM9-6
+CekUeo5JpL5	5-HT-2 Receptors	False	JB4LC3IM9-6	4	JB4LC3IM9-6
+AAX_OyAS4G5	5-HT-4 Receptors	True	JB4LC3IM9-6	4	JB4LC3IM9-6
+_QwUHXE2fEB	5-HT-5 Receptors	True	JB4LC3IM9-6	4	JB4LC3IM9-6
+9yi_3gL-u_A	5-HT-7 Receptors	True	JB4LC3IM9-6	4	JB4LC3IM9-6
+tYSarZ1se9G	5-HT-2A Receptor	True	CekUeo5JpL5	5	CekUeo5JpL5
+s5jBiLRkLWC	5-HT-2B Receptor	True	CekUeo5JpL5	5	CekUeo5JpL5
+ra1oY9sb4u9	5-HT-2C Receptor	True	CekUeo5JpL5	5	CekUeo5JpL5
+tppaCwbksrB	5-HT-1A Receptor	True	DNL_lD2lBOB	5	DNL_lD2lBOB
+sK7B5h3bZE9	5-HT-1B Receptor	True	DNL_lD2lBOB	5	DNL_lD2lBOB
+qMeQmFvKz1D	5-HT-1D Receptor	True	DNL_lD2lBOB	5	DNL_lD2lBOB
+ptv3c3KCgO_	5-HT-1E Receptor	True	DNL_lD2lBOB	5	DNL_lD2lBOB
+oOBfTpm5Mn6	5-HT-1F Receptor	True	DNL_lD2lBOB	5	DNL_lD2lBOB
+MH7WNwmiYS6	Retinoic Acid Receptors	True	6t4MPVeVR-F	3	6t4MPVeVR-F
+zf0uZu6PkK_	EP Prostanoid Receptors	False	7XY4b1wYQI6	3	7XY4b1wYQI6
+5J91WZSlxPH	FP Prostanoid Receptor	True	7XY4b1wYQI6	3	7XY4b1wYQI6
+2Gd3nxQ1EF7	IP Prostanoid Receptor	True	7XY4b1wYQI6	3	7XY4b1wYQI6
+2fRwapXZwq_	EP-1 Prostanoid Receptor	True	zf0uZu6PkK_	4	zf0uZu6PkK_
+3JXl_uB4Fu7	EP-2 Prostanoid Receptor	True	zf0uZu6PkK_	4	zf0uZu6PkK_
+4zcak0rWbxH	EP-3 Prostanoid Receptor	True	zf0uZu6PkK_	4	zf0uZu6PkK_
+5diPJ6V1w0D	EP-4 Prostanoid Receptor	True	zf0uZu6PkK_	4	zf0uZu6PkK_
+mNYEHGGEuID	IP Prostacyclin Receptor	True	Tve_8buIVA7	3	Tve_8buIVA7
+oHFHjxV1k-D	Progesterone Receptors	True	99JL64J58j5	3	99JL64J58j5
+-_rgC5q-CUH	Parathyroid Hormone Receptors	False	TXlA5C93dfF	3	TXlA5C93dfF
+kssX9lx_fJG	PTH-1 Parathyroid Hormone Receptor	True	-_rgC5q-CUH	4	-_rgC5q-CUH
+af405BQK3w7	P2 Receptors	False	aU3Agxrc7L-	3	aU3Agxrc7L-
+vfbN_U6D2zH	P2Y Receptors	False	af405BQK3w7	4	af405BQK3w7
+kJ4d4lM2XkF	P2Y12 Receptor	True	vfbN_U6D2zH	5	vfbN_U6D2zH
+wm0OEo6PEvB	Adrenoceptors	False	gZkhLag-kq4	3	gZkhLag-kq4
+OqF6beO80WH	NET, Norepinephrine Transporter	True	gZkhLag-kq4	3	gZkhLag-kq4
+k-QNRW_jWjB	Norepinephrine Enzymes	False	gZkhLag-kq4	3	gZkhLag-kq4
+Onb49ZctH-8	Catechol-O-Methyltransferase	True	k-QNRW_jWjB	4	k-QNRW_jWjB
+-ucvKv_6u5D	Alpha Adrenoceptors	False	wm0OEo6PEvB	4	wm0OEo6PEvB
+aPfspzV4p08	Beta Adrenoceptors	False	wm0OEo6PEvB	4	wm0OEo6PEvB
+RXYddRBSjn-	Beta-1 Adrenoceptor	True	aPfspzV4p08	5	aPfspzV4p08
+S7wSfVmL4X-	Beta-2 Adrenoceptor	True	aPfspzV4p08	5	aPfspzV4p08
+TfJIhZLFNI-	Beta-3 Adrenoceptor	True	aPfspzV4p08	5	aPfspzV4p08
+QiUt546ZCT8	Alpha-1 Adrenoceptors	False	-ucvKv_6u5D	5	-ucvKv_6u5D
+REmVpuZNJTA	Alpha-2 Adrenoceptors	False	-ucvKv_6u5D	5	-ucvKv_6u5D
+QoV5qUpDn84	Alpha-2A Adrenoceptor	True	REmVpuZNJTA	6	REmVpuZNJTA
+KDTLi19h907	Alpha-2B Adrenoceptors	True	REmVpuZNJTA	6	REmVpuZNJTA
+OOjeTLVPAoH	Alpha-2C Adrenoceptor	True	REmVpuZNJTA	6	REmVpuZNJTA
+O6388FFAnlG	Alpha-1A Adrenoceptor	True	QiUt546ZCT8	6	QiUt546ZCT8
+LTs053mxsm8	Alpha-1D Adrenoceptor	True	QiUt546ZCT8	6	QiUt546ZCT8
+WIKswV2HgL6	Adrenoceptors	False	ml3GE3xUM8D	3	ml3GE3xUM8D
+4mXO7p2bDHA	NET, Norepinephrine Transporter	True	ml3GE3xUM8D	3	ml3GE3xUM8D
+i8hF9zPNTK5	Norepinephrine Enzymes	False	ml3GE3xUM8D	3	ml3GE3xUM8D
+4pE9H75tCfC	Catechol-O-Methyltransferase	True	i8hF9zPNTK5	4	i8hF9zPNTK5
+IyLNLpErY5F	Alpha Adrenoceptors	False	WIKswV2HgL6	4	WIKswV2HgL6
+s1MRwJP4qQE	Beta Adrenoceptors	False	WIKswV2HgL6	4	WIKswV2HgL6
+12UoTPp4xkG	Beta-1 Adrenoceptor	True	s1MRwJP4qQE	5	s1MRwJP4qQE
+0RX1eWLhFI6	Beta-2 Adrenoceptor	True	s1MRwJP4qQE	5	s1MRwJP4qQE
+zsZCqdtJZr9	Beta-3 Adrenoceptor	True	s1MRwJP4qQE	5	s1MRwJP4qQE
+2sOSh1Vd3-C	Alpha-1 Adrenoceptors	False	IyLNLpErY5F	5	IyLNLpErY5F
+1Ja1Uz0IcjD	Alpha-2 Adrenoceptors	False	IyLNLpErY5F	5	IyLNLpErY5F
+2mH_cVHla4_	Alpha-2A Adrenoceptor	True	1Ja1Uz0IcjD	6	1Ja1Uz0IcjD
+8R1aBZ21U6-	Alpha-2B Adrenoceptors	True	1Ja1Uz0IcjD	6	1Ja1Uz0IcjD
+4CWodfl3TG_	Alpha-2C Adrenoceptor	True	1Ja1Uz0IcjD	6	1Ja1Uz0IcjD
+4WVJVcyTJ-H	Alpha-1A Adrenoceptor	True	2sOSh1Vd3-C	6	2sOSh1Vd3-C
+7ALHWrfP_yG	Alpha-1D Adrenoceptor	True	2sOSh1Vd3-C	6	2sOSh1Vd3-C
+QOVulpebc8_	Delta Opioid Peptide Receptors	True	3cdLedx-iaA	3	3cdLedx-iaA
+suYwRRhUoFC	Kappa Opioid Receptors	True	3cdLedx-iaA	3	3cdLedx-iaA
+FZDRxEA-8Q4	Mu Opioid Receptors	True	3cdLedx-iaA	3	3cdLedx-iaA
+cjn8hAFjoX8	Nociceptin-Orphanin FQ Peptide Receptor	True	3cdLedx-iaA	3	3cdLedx-iaA
+mdUolhawNl6	MT-1 Melatonin Receptor	True	pN9vAbJlGnE	3	pN9vAbJlGnE
+nh9XiUtcxhF	MT-2 Melatonin Receptor	True	pN9vAbJlGnE	3	pN9vAbJlGnE
+olmHfHAJVeA	MT-3 Melatonin Receptor	True	pN9vAbJlGnE	3	pN9vAbJlGnE
+o7ehIkAFHcC	Melanocortin receptors	False	poL0ZIQcdh7	3	poL0ZIQcdh7
+BZDKBUkUCj9	Melanocortin 1 receptor	True	o7ehIkAFHcC	4	o7ehIkAFHcC
+eT6dFyaNc18	Leukotriene Receptors	False	DFTng4Z_IOF	3	DFTng4Z_IOF
+VFXARtq5SBB	CysLT-1 Leukotriene Receptor	True	eT6dFyaNc18	4	eT6dFyaNc18
+36WBtI2tp6H	Keratinocyte Growth Factor Receptor (KGFR)	True	JFMmJk_STq6	3	JFMmJk_STq6
+3BK8Y12HEOH	Interferon Receptor	True	0REFmp40frF	3	0REFmp40frF
+XfU-9w18kE6	Integrin Receptor	True	ktWtTtSbDi7	3	ktWtTtSbDi7
+NH63Nsz500B	Platelet Receptor Glycoprotein (GP)	True	ktWtTtSbDi7	3	ktWtTtSbDi7
+xO3Ch9f85cF	Insulin Receptor	True	KHSEfj_nvvA	3	KHSEfj_nvvA
+cywkdHk2fh_	Insulin-like Growth Factor (IGF) Receptor	True	KHSEfj_nvvA	3	KHSEfj_nvvA
+q0zHtSluzi4	Imidazoline Receptors	False	pX3TDmle-57	3	pX3TDmle-57
+_cAHJfkfo--	I-1 Imidazoline Receptor	True	q0zHtSluzi4	4	q0zHtSluzi4
+cGpYtT_-BX4	Histamine Receptors	False	iZ_4DuAN70D	3	iZ_4DuAN70D
+3bp3SBgooR4	H-1 Histamine Receptor	True	cGpYtT_-BX4	4	cGpYtT_-BX4
+4LA5blAl9oH	H-2 Histamine Receptor	True	cGpYtT_-BX4	4	cGpYtT_-BX4
+57W6kJhhSAH	H-3 Histamine Receptor	True	cGpYtT_-BX4	4	cGpYtT_-BX4
+WMknI2V1z-_	Guanylyl Cyclases	False	RwbCvJs_I-A	3	RwbCvJs_I-A
+xJn-iwyPaj8	Guanylyl Cyclase, Particular	True	WMknI2V1z-_	4	WMknI2V1z-_
+spR5Yp_B389	Guanylyl Cyclase, Soluble	True	WMknI2V1z-_	4	WMknI2V1z-_
+NyfjcL0sdtB	Growth Hormone (GH) Receptor	True	faL22AgZ2eB	3	faL22AgZ2eB
+PkX2HoWBlB-	Growth Hormone Secretagogue Receptor	True	faL22AgZ2eB	3	faL22AgZ2eB
+ckh3gm0bS0G	Gonadotropin Releasing Hormone (GnRH) Receptors	True	iUGPfLjIf8B	3	iUGPfLjIf8B
+rsrwQIRXwNA	FSH Receptor	True	DLMGNLDCN77	3	DLMGNLDCN77
+lmrzy4N3W4H	LSH Receptor	True	DLMGNLDCN77	3	DLMGNLDCN77
+SWIraD3CW3G	Ionotropic Glutamate Receptors	False	yCFmJ6PqFNH	3	yCFmJ6PqFNH
+vaFCdsUbUyB	AMPA Glutamate Receptors	True	SWIraD3CW3G	4	SWIraD3CW3G
+t_GgCaT13VA	NMDA Glutamate Receptor	True	SWIraD3CW3G	4	SWIraD3CW3G
+ogiMEdgr895	Glucocorticoid Receptors	True	ENP4zMgDP_E	3	ENP4zMgDP_E
+6ITvh61huHE	Glucagon-like Peptide (GLP) Receptors	False	xhXiD0ct2TD	3	xhXiD0ct2TD
+pZcGQvb23g5	Glucagon-like Peptide (GLP) Receptor 1	True	6ITvh61huHE	4	6ITvh61huHE
+o6ttGh3tk5E	Glucagon-like Peptide (GLP) Receptor 2	True	6ITvh61huHE	4	6ITvh61huHE
+zVW0yqL2GD_	Glucagon Receptor	True	ymLbBQfYCe7	3	ymLbBQfYCe7
+orueLNauRh-	GABA Receptors	False	xmo2F5znEOE	3	xmo2F5znEOE
+y2nNbOMf954	GABA Transporters	True	xmo2F5znEOE	3	xmo2F5znEOE
+8GqCOXKLyYB	GABA-B Receptor	True	xmo2F5znEOE	3	xmo2F5znEOE
+9RrtIkOFliG	GABA-A Receptors	False	orueLNauRh-	4	orueLNauRh-
+YG_7poh6i7G	GABA-A Receptor Alpha 1	True	9RrtIkOFliG	5	9RrtIkOFliG
+xh_SgJq-bV_	ER Estrogen receptors	True	dKeVFB4do8C	3	dKeVFB4do8C
+5jAs0dQ0q67	Epidermal Growth Factor (EGFR) Receptors	False	dyQX_hQa004	3	dyQX_hQa004
+jqyWeJPdaY-	EGFR Receptor 1 Protein (HER1)	True	5jAs0dQ0q67	4	5jAs0dQ0q67
+hiQWNlD2FdH	EGFR Receptor 2 Protein (HER2)	True	5jAs0dQ0q67	4	5jAs0dQ0q67
+dSMVrcsncm5	EGFR Receptor 4 Protein (HER4)	True	5jAs0dQ0q67	4	5jAs0dQ0q67
+6q1_zd3QFSC	ErbB1	True	5jAs0dQ0q67	4	5jAs0dQ0q67
+p9muWuJMoX4	Adrenoceptors	False	56-7suvkfe4	3	56-7suvkfe4
+1JLEqdur1R-	Norepinephrine Enzymes	False	56-7suvkfe4	3	56-7suvkfe4
+LjKhvS90oD4	Catechol-O-Methyltransferase	True	1JLEqdur1R-	4	1JLEqdur1R-
+bLSYZdzTG66	Alpha Adrenoceptors	False	p9muWuJMoX4	4	p9muWuJMoX4
+_WG5LCV_N1H	Beta Adrenoceptors	False	p9muWuJMoX4	4	p9muWuJMoX4
+IqrHnvuFI3D	Beta-1 Adrenoceptor	True	_WG5LCV_N1H	5	_WG5LCV_N1H
+HDhm6-b5VCA	Beta-2 Adrenoceptor	True	_WG5LCV_N1H	5	_WG5LCV_N1H
+GcWFOOJtjN8	Beta-3 Adrenoceptor	True	_WG5LCV_N1H	5	_WG5LCV_N1H
+JiULTqkbDy6	Alpha-1 Adrenoceptors	False	bLSYZdzTG66	5	bLSYZdzTG66
+I9WYexGEXV-	Alpha-2 Adrenoceptors	False	bLSYZdzTG66	5	bLSYZdzTG66
+JcBY7N1gggH	Alpha-2A Adrenoceptor	True	I9WYexGEXV-	6	I9WYexGEXV-
+PTXoqfYmChF	Alpha-2B Adrenoceptors	True	I9WYexGEXV-	6	I9WYexGEXV-
+L8N6zmMJTr5	Alpha-2C Adrenoceptor	True	I9WYexGEXV-	6	I9WYexGEXV-
+LQ1V7WyASp_	Alpha-1A Adrenoceptor	True	JiULTqkbDy6	6	JiULTqkbDy6
+OAIJQcV9d5C	Alpha-1D Adrenoceptor	True	JiULTqkbDy6	6	JiULTqkbDy6
+oqgRt1WNV_E	Endothelin Receptors	False	W73ecoJ97a4	3	W73ecoJ97a4
+W0t5rHiVOTD	ET-A Endothelin Receptor	True	oqgRt1WNV_E	4	oqgRt1WNV_E
+ECXyPLum3GA	ET-B Endothelin Receptors	True	oqgRt1WNV_E	4	oqgRt1WNV_E
+xrbmB3FKLnH	D1-like Dopamine Receptors	False	7opD5Fm831B	3	7opD5Fm831B
+yr6Fn0jZfG4	D2-like Dopamine Receptors	False	7opD5Fm831B	3	7opD5Fm831B
+Ij-NxxGF6d8	DAT, Dopamine Transporter	True	7opD5Fm831B	3	7opD5Fm831B
+wl1owG-B1h7	D2 Dopamine Receptor	True	yr6Fn0jZfG4	4	yr6Fn0jZfG4
+v6EDm2DpGw9	D3 Dopamine Receptor	True	yr6Fn0jZfG4	4	yr6Fn0jZfG4
+uPUdbmJQY-_	D4 Dopamine Receptor	True	yr6Fn0jZfG4	4	yr6Fn0jZfG4
+wQHvVZaLP04	D1 Dopamine Receptor	True	xrbmB3FKLnH	4	xrbmB3FKLnH
+skEYrYxnVtB	D5 Dopamine Receptor	True	xrbmB3FKLnH	4	xrbmB3FKLnH
+FNQfpWmHhAB	Colony Stimulating Factor Targets	False	kef6228qe87	3	kef6228qe87
+oY4fcOiYBkE	Cytokine Receptors	False	kef6228qe87	3	kef6228qe87
+QdJ6Z1pQgX6	Erythropoietin receptor	True	oY4fcOiYBkE	4	oY4fcOiYBkE
+xtOStRgqFpE	Leptin receptor	True	oY4fcOiYBkE	4	oY4fcOiYBkE
+woy-j75l7V6	Receptor Activator for Nuclear Factor k B Ligand	True	oY4fcOiYBkE	4	oY4fcOiYBkE
+kZJo2SaP5D7	Thrombopoietin Receptor	True	oY4fcOiYBkE	4	oY4fcOiYBkE
+bTGRXda98UE	Colony stimulating factor receptors	False	FNQfpWmHhAB	4	FNQfpWmHhAB
+FeBGECHddm-	Colony stimulating factor 1 receptor (CSF1R)	True	bTGRXda98UE	5	bTGRXda98UE
+iHet4a-beY_	CRF-1 Corticotropin-Releasing Factor Receptor	True	J2iYsbViK7E	3	J2iYsbViK7E
+hctHuKEDwmB	CRF-2 Corticotropin-Releasing Factor Receptor	True	J2iYsbViK7E	3	J2iYsbViK7E
+odZlBp4oWUH	CC Chemokine Receptors	False	dgBUANsUM4_	3	dgBUANsUM4_
+kHdShE2gYI7	CXC Chemokine Receptors	False	dgBUANsUM4_	3	dgBUANsUM4_
+lyMEN2oXbr4	CXCR1 Chemokine Receptor	True	kHdShE2gYI7	4	kHdShE2gYI7
+mepGaTAI67G	CXCR2 Chemokine Receptor	True	kHdShE2gYI7	4	kHdShE2gYI7
+bTQQm-73rY7	CC Chemokine Receptor type 4 (CCR4)	True	odZlBp4oWUH	4	odZlBp4oWUH
+R7A_Cv0oCaD	CB-1 Cannabinoid Receptor	True	haGxlGq9108	3	haGxlGq9108
+Q4b414UPLBF	CB-2 Cannabinoid Receptor	True	haGxlGq9108	3	haGxlGq9108
+aFI8xwxBd-5	Adrenomedullin Receptor	True	mC7VythFsTG	3	mC7VythFsTG
+bmpD2329a49	Amylin Receptor	True	mC7VythFsTG	3	mC7VythFsTG
+pMa93R44NcE	Calcitonin Gene-Related Peptide Receptor	True	mC7VythFsTG	3	mC7VythFsTG
+o6YA-VYv2uG	Calcitonin Receptors	True	mC7VythFsTG	3	mC7VythFsTG
+oT-zorZmdD9	Bradykinin Receptors	True	bZX29flqaa7	3	bZX29flqaa7
+Xfqj9PSzxtD	P2 Receptors	False	Xq4TAudfJFA	3	Xq4TAudfJFA
+CM5oiAj0h7G	P2Y Receptors	False	Xfqj9PSzxtD	4	Xfqj9PSzxtD
+NvrYg1nuqlE	P2Y12 Receptor	True	CM5oiAj0h7G	5	CM5oiAj0h7G
+KWxYNBwWYLB	Angiotensin Receptors	False	ZY26LFb9s6C	3	ZY26LFb9s6C
+6cqkf09-Pr4	AT-1 Angiotensin Receptors	True	KWxYNBwWYLB	4	KWxYNBwWYLB
+kHduWl4qNd8	AT-2 Angiotensin Receptor	True	KWxYNBwWYLB	4	KWxYNBwWYLB
+o20VVPOPDd9	Androgen Receptors	True	OpMOxyTWgr4	3	OpMOxyTWgr4
+sdf_Q_PffZD	Mineralocorticoid receptor	True	ygfpj_9ehI6	3	ygfpj_9ehI6
+d4HK8asB24A	Adrenoceptors	False	NriXzR952y6	3	NriXzR952y6
+RgL4WGzoPY6	Norepinephrine Enzymes	False	NriXzR952y6	3	NriXzR952y6
+7wcsFAeK-U9	Catechol-O-Methyltransferase	True	RgL4WGzoPY6	4	RgL4WGzoPY6
+r4c1kU8JgAG	Alpha Adrenoceptors	False	d4HK8asB24A	4	d4HK8asB24A
+HJ5wt4-gvU9	Beta Adrenoceptors	False	d4HK8asB24A	4	d4HK8asB24A
+-s3gCgMo8f8	Beta-1 Adrenoceptor	True	HJ5wt4-gvU9	5	HJ5wt4-gvU9
+_Uq0CRQ4-WH	Beta-2 Adrenoceptor	True	HJ5wt4-gvU9	5	HJ5wt4-gvU9
+A9cIDCUIBOC	Beta-3 Adrenoceptor	True	HJ5wt4-gvU9	5	HJ5wt4-gvU9
+9zV7wTKQpRH	Alpha-1 Adrenoceptors	False	r4c1kU8JgAG	5	r4c1kU8JgAG
+-Z5R8XsJPUG	Alpha-2 Adrenoceptors	False	r4c1kU8JgAG	5	r4c1kU8JgAG
+95uHVU662w5	Alpha-2A Adrenoceptor	True	-Z5R8XsJPUG	6	-Z5R8XsJPUG
+38bkCwytHB8	Alpha-2B Adrenoceptors	True	-Z5R8XsJPUG	6	-Z5R8XsJPUG
+7XA3LyAZiR4	Alpha-2C Adrenoceptor	True	-Z5R8XsJPUG	6	-Z5R8XsJPUG
+7DFgtjMt3o5	Alpha-1A Adrenoceptor	True	9zV7wTKQpRH	6	9zV7wTKQpRH
+4Q_mfQW64ZH	Alpha-1D Adrenoceptor	True	9zV7wTKQpRH	6	9zV7wTKQpRH
+gY1jbohiTm7	Adenosine Receptors	False	k2JVqjBTsI4	3	k2JVqjBTsI4
+ycHBmu-7VZ6	A-1 Adenosine Receptor	True	gY1jbohiTm7	4	gY1jbohiTm7
+WQHbmvD92b7	A-2 Adenosine Receptors	False	gY1jbohiTm7	4	gY1jbohiTm7
+080D42_0_H5	A-3 Adenosine Receptor	True	gY1jbohiTm7	4	gY1jbohiTm7
+IvV4vbc8qk4	A-2A Adenosine Receptor	True	WQHbmvD92b7	5	WQHbmvD92b7
+JHA0B9XRzuD	A-2B Adenosine Receptor	True	WQHbmvD92b7	5	WQHbmvD92b7
+Ig-N8cjjuC4	Acetylcholinesterase	True	awmZz65nqM7	3	awmZz65nqM7
+aPvVFWQ5f4B	Muscarinic Acetylcholine Receptors	False	awmZz65nqM7	3	awmZz65nqM7
+A18R19mejv9	Nicotinic Acetylcholine Receptors	True	awmZz65nqM7	3	awmZz65nqM7
+upBmGDRqkID	Pseudocholinesterase	True	awmZz65nqM7	3	awmZz65nqM7
+_g0MJ00Gg-4	M1 Muscarinic Acetylcholine Receptor	True	aPvVFWQ5f4B	4	aPvVFWQ5f4B
+AvbhJ5Dwcl4	M2 Muscarinic Acetylcholine Receptor	True	aPvVFWQ5f4B	4	aPvVFWQ5f4B
+B9C2J-SZZM4	M3 Muscarinic Acetylcholine Receptor	True	aPvVFWQ5f4B	4	aPvVFWQ5f4B
+CLqKKDiCWzH	M4 Muscarinic Acetylcholine Receptor	True	aPvVFWQ5f4B	4	aPvVFWQ5f4B
+DZRfKIxrSaH	M5 Muscarinic Acetylcholine Receptor	True	aPvVFWQ5f4B	4	aPvVFWQ5f4B
+daW429tyk8C	CD11a Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+u6KXPE9J4GH	CD2 Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+GLtvP5kjaR_	CD20 Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+ID3uUK4INz4	CD22 Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+IEzT0sgyfs5	CD33 Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+Nwrxg3wP-g5	CD38 antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+FS8-L40NZMF	CD52 Antigen	True	SYOEJYHNhY9	3	SYOEJYHNhY9
+QmnIobRmgQA	CD123 Antigen	True	0HI083NArKA	3	0HI083NArKA
+kXHliVeJEe6	5-Hydroxytryptamine Receptors	False	GgiIllUf-49	3	GgiIllUf-49
+y7NHcgyikSC	SERT, Serotonin Transporter	True	GgiIllUf-49	3	GgiIllUf-49
+efVAkulSPQ-	5-HT-1 Receptors	False	kXHliVeJEe6	4	kXHliVeJEe6
+d6XNv1H7izB	5-HT-2 Receptors	False	kXHliVeJEe6	4	kXHliVeJEe6
+bwcnFEMMK64	5-HT-4 Receptors	True	kXHliVeJEe6	4	kXHliVeJEe6
+aLf0QLu0dd8	5-HT-5 Receptors	True	kXHliVeJEe6	4	kXHliVeJEe6
+YBkOnZyFFkD	5-HT-7 Receptors	True	kXHliVeJEe6	4	kXHliVeJEe6
+IHKwaslCB1_	5-HT-2A Receptor	True	d6XNv1H7izB	5	d6XNv1H7izB
+HyksU4TOmA_	5-HT-2B Receptor	True	d6XNv1H7izB	5	d6XNv1H7izB
+Gd_oOECaLM-	5-HT-2C Receptor	True	d6XNv1H7izB	5	d6XNv1H7izB
+IY3EN3l3G4_	5-HT-1A Receptor	True	efVAkulSPQ-	5	efVAkulSPQ-
+HDSBHDUDsD_	5-HT-1B Receptor	True	efVAkulSPQ-	5	efVAkulSPQ-
+FZH66awa2a9	5-HT-1D Receptor	True	efVAkulSPQ-	5	efVAkulSPQ-
+EEi20membm8	5-HT-1E Receptor	True	efVAkulSPQ-	5	efVAkulSPQ-
+Dv8yuyMyAy7	5-HT-1F Receptor	True	efVAkulSPQ-	5	efVAkulSPQ-

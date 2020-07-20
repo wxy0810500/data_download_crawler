@@ -1,0 +1,32 @@
+
+Download list: 
+
+download --> select all columns
+
+1. Efficacy Data(size 2.45million)
+searching: species —> human+others --> getting all data 
+1) Precinical
+2) Clinical
+
+2. Oncology data:
+1) MET protein list
+2) PK parameter groups
+3) drug and class
+
+3. Drug safety data (size 1.66 million)
+1)All data (preclinical+clinical)
+2)AERS
+
+4. Metabolizing Enz & Trans. Data (size 44w)
+1) all data (preclinical+clinical)
+
+5. Pharmacokinetic Data (size 1.6 million)
+1) All data (preclinical+clinical)
+
+6. Other Oncology data
+1)target and class
+2)indication and class
+3)ADR and class
+
+7. FAERS data (size huge)
+1) part download

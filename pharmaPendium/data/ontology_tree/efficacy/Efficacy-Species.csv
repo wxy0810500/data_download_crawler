@@ -1,0 +1,60 @@
+id	name	isLeaf	pId	deep	parentID
+IBHRmo__7T4	Human	True	0	1	
+ALOvP_GaRv9	Vertebrates	False	0	1	
+L5PUU2WFWhF	Animals unspecified	False	ALOvP_GaRv9	2	ALOvP_GaRv9
+XmQmVYkG9Q-	Birds	False	ALOvP_GaRv9	2	ALOvP_GaRv9
+RZl8kHzLqm-	Mammals	False	ALOvP_GaRv9	2	ALOvP_GaRv9
+F0rND6pfE3C	Carnivora	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+Z2R4RJUru15	Lagomorph	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+6ZTeHxj99GC	Primate	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+8tURyy1wDb8	Rodent	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+dTLBFT0olzA	Soricidae	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+llMQcjN35M7	Ungulate	False	RZl8kHzLqm-	3	RZl8kHzLqm-
+3UqwXFqQRxD	Buffalo	True	llMQcjN35M7	4	llMQcjN35M7
+N4kGP8kFzJ7	Cattle (unspecified)	True	llMQcjN35M7	4	llMQcjN35M7
+dy8I1_y9Fr7	Cow	True	llMQcjN35M7	4	llMQcjN35M7
+wyAUfg-2va7	Deer	True	llMQcjN35M7	4	llMQcjN35M7
+j60svrm69bA	Goat	True	llMQcjN35M7	4	llMQcjN35M7
+r_G1LjaHsK-	Horse	True	llMQcjN35M7	4	llMQcjN35M7
+RYJIIE7o3Q_	Minipig	True	llMQcjN35M7	4	llMQcjN35M7
+apPy9Nt_dfE	Pig	True	llMQcjN35M7	4	llMQcjN35M7
+Na20tx1vU16	Sheep	True	llMQcjN35M7	4	llMQcjN35M7
+JVh2h3oWMEH	Shrew	True	dTLBFT0olzA	4	dTLBFT0olzA
+Hh_VmTcDOK4	Ferret	True	8tURyy1wDb8	4	8tURyy1wDb8
+kpiuTw6Mo-E	Gerbil	True	8tURyy1wDb8	4	8tURyy1wDb8
+4pY5-x1amFB	Guinea pig	True	8tURyy1wDb8	4	8tURyy1wDb8
+dVJUUImIW67	Hamster	True	8tURyy1wDb8	4	8tURyy1wDb8
+kr1XLWJ777G	Jird	True	8tURyy1wDb8	4	8tURyy1wDb8
+oh46VXgczq-	Mastomys	True	8tURyy1wDb8	4	8tURyy1wDb8
+6FC3IhPWWZ9	Mouse	True	8tURyy1wDb8	4	8tURyy1wDb8
+_0MIEBPaJ0_	Prairie dog	True	8tURyy1wDb8	4	8tURyy1wDb8
+aU5K56VELiD	Rat	True	8tURyy1wDb8	4	8tURyy1wDb8
+XiKNgiyin38	Rodent (unspecified)	True	8tURyy1wDb8	4	8tURyy1wDb8
+c66JkPdeX2E	Squirrel	True	8tURyy1wDb8	4	8tURyy1wDb8
+UFclk379NG-	Woodchuck	True	8tURyy1wDb8	4	8tURyy1wDb8
+dcylsezyXgH	African green monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+shbrCsADsq5	Baboon	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+9-EGry_j79-	Capuchin monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+nvzR7MY8f8_	Chimpanzee	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+4ZWACDgz5k_	Cynomolgus monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+AtyVBcsvAj7	Macaque (unspecified)	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+j997XwfzInB	Marmoset	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+u60IuezCq_A	Monkey (unspecified)	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+E2DMVZ8BRD_	Pigtail macaque	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+dY723SXlUSA	Primate (unspecified)	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+Ip-mj6LPD24	Rhesus monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+RV7JA_BoLLE	Squirrel monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+tK9j6DWlOg5	Stumptail monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+-ZUvsCS_LgF	Tamarin monkey	True	6ZTeHxj99GC	4	6ZTeHxj99GC
+679FW2TuxSF	Rabbit	True	Z2R4RJUru15	4	Z2R4RJUru15
+qDwp-yRbyKA	Beagle dog	True	F0rND6pfE3C	4	F0rND6pfE3C
+YHYYiEx1Yz4	Cat	True	F0rND6pfE3C	4	F0rND6pfE3C
+-ePAzz-LHcF	Dog	True	F0rND6pfE3C	4	F0rND6pfE3C
+-l6seFRFhM5	Ducks and geese	False	XmQmVYkG9Q-	3	XmQmVYkG9Q-
+1IhqLnCEqW9	Galliformes	False	XmQmVYkG9Q-	3	XmQmVYkG9Q-
+Bz9oyPu6liH	Pigeons and doves	False	XmQmVYkG9Q-	3	XmQmVYkG9Q-
+enlk07ffSMH	Pigeon	True	Bz9oyPu6liH	4	Bz9oyPu6liH
+H9z4LgkcEXA	Chicken	True	1IhqLnCEqW9	4	1IhqLnCEqW9
+-3CJEqiTGYB	Duck	True	-l6seFRFhM5	4	-l6seFRFhM5
+lW5Jwm6kkwD	Animal unspecified	False	L5PUU2WFWhF	3	L5PUU2WFWhF
+o5-1ypbeAX4	Animal (unspecified)	True	lW5Jwm6kkwD	4	lW5Jwm6kkwD

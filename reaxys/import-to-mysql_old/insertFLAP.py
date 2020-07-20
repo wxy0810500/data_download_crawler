@@ -1,0 +1,13 @@
+from commonUtils import insertTM
+
+TARGET_NAME = 'substance'
+ID_KEY = 'IDE.XRN'
+INSERT_INTO_TABLE_FLAP = '''
+INSERT INTO FLAP(IDE_XRN,FLAP_L,FLAP_CITATION,FLAP_SOURCE,FLAP_FLAP,FLAP_TYP,FLAP_ED,FLAP_LCN,FLAP_TAG,FLAP_COM) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+'''
+KEY_NAME = ['FLAP.L', 'FLAP.citation', 'FLAP.SOURCE', 'FLAP.FLAP','FLAP.TYP', 'FLAP.ED', 'FLAP.LCN', 'FLAP.TAG', 'FLAP.COM']
+
+def dealXML(xmlStr):
+    insertTM.setValue(TARGET_NAME, ID_KEY, INSERT_INTO_TABLE_FLAP, KEY_NAME)
+    insertTM.dealXML(xmlStr)
+

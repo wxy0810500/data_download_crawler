@@ -1,0 +1,12 @@
+from commonUtils import insertTM
+
+TARGET_NAME = 'substance'
+ID_KEY = 'IDE.XRN'
+INSERT_INTO_TABLE_PSD = '''
+INSERT INTO PSD(IDE_XRN,PSD_L,PSD_CITATION,PSD_SOURCE,PSD_PRC,PSD_MARPRN,PSD_LCN,PSD_TAG,PSD_ED,EXTID_CASRN,EXTID_INCHI) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+'''
+KEY_NAME = ['PSD.L', 'PSD.citation', 'PSD.SOURCE', 'PSD.PRC', 'PSD.MARPRN', 'PSD.LCN', 'PSD.TAG', 'PSD.ED', 'EXTID.CASRN', 'EXTID.INCHI']
+
+def dealXML(xmlStr):
+    insertTM.setValue(TARGET_NAME, ID_KEY, INSERT_INTO_TABLE_PSD, KEY_NAME)
+    insertTM.dealXML(xmlStr)

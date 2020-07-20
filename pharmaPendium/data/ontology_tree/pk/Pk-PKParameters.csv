@@ -1,0 +1,123 @@
+id	name	isLeaf	pId	deep	parentID
+UktLqS16Zp9	Absorption	False	0	1	
+AWkDuEPp7b8	Binding	False	0	1	
+skEGgPQrmTA	Biotransformation	False	0	1	
+pXZXwcJUsM8	Distribution	False	0	1	
+gKNgI7WMwT_	Elimination	False	0	1	
+5zQzcsu3rTA	Clearance	False	gKNgI7WMwT_	2	gKNgI7WMwT_
+y_3pTcJ3MfH	Excretion values	False	gKNgI7WMwT_	2	gKNgI7WMwT_
+mGWjMgfpbMA	Half life	False	gKNgI7WMwT_	2	gKNgI7WMwT_
+2s9CfLf7l4-	Rate constants	False	gKNgI7WMwT_	2	gKNgI7WMwT_
+09-SKE8goM-	Time	False	gKNgI7WMwT_	2	gKNgI7WMwT_
+o_PfL0JGYsH	MRT	True	09-SKE8goM-	3	09-SKE8goM-
+tTbACW_JoR5	Tlast	True	09-SKE8goM-	3	09-SKE8goM-
+vcNkmm4D1K6	K10	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+tSQzl32E2K6	K12	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+stxaFAWl2KC	K13	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+vboFOGBjVL6	K21	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+w_h_Vdqh1LC	K31	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+nAUqqWraSl6	Kel	True	2s9CfLf7l4-	3	2s9CfLf7l4-
+NB82Gvc-ha5	T1/2	True	mGWjMgfpbMA	3	mGWjMgfpbMA
+HHMzSaxlgrB	Ae	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+Ux6Ye6J9YPF	Air excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+CjgfgMWBV4D	Amount excreted by air	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+guEPG9Nmj-9	Amount excreted by dialysis	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+MHNd8r82xUA	Amount excreted in feces	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+ncOl73jaLA5	Amount excreted in milk	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+09csJeIc439	Bile excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+s_AIKLpoI47	Bile excretion rate	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+B5wppPJmzdE	Cumulative excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+g0PPqlXwxU8	Dialysis excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+1155Kqon3yH	Enterohepatic excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+CIUlZpMHGmG	Excretion rate	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+PfG3XnTczXE	Fecal excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+No10_yVCi4_	Fraction of dose excreted	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+5Z6kq9YQw08	Milk excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+geouzq_sUHF	Radioactivity recovery	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+Kkocuj9CRg9	Sweat excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+6Ng4-8tMMtE	Total excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+Ib_amW_Ww-F	Urinary excretion rate	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+bf2SGlrGic-	Urine excretion	True	y_3pTcJ3MfH	3	y_3pTcJ3MfH
+ptS3tGJ1vP7	CL	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+gH8LrCNgTw7	CL/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+x79yYMT5Gg5	CLd	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+oFT_Ju2VsWA	CLd/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+JTW1yMIKFQ8	CLmet	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+AtUo38E99aB	CLmet/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+tnfjRPDurE_	CLnr	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+k5YYDwZtXmB	CLnr/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+lZ-z4lQp_SD	CLpl	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+c7LdoIhkCI9	CLpl/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+_HbtSjRB2y-	CLr	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+21lLsLB4JT_	CLr/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+pEXmjm5YTZ9	CLss	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+geSJHmzCgW-	CLss/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+BcosILIw8Q9	CLt	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+4FNExGehpS4	CLt/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+Ho-4xMbQkwG	Q	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+-FRwXCXdjD6	Q/F	True	5zQzcsu3rTA	3	5zQzcsu3rTA
+9g3UMhwxELB	Accumulation	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+d9YknyxX_JC	Area under the curve	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+ie1e0lfO9QC	Permeation	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+_9QHBGQ3-QH	Steady state	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+E4d7QBcgptD	Time value	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+NVYdCnVmRz9	Tissue distribution	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+7RxK-mCPFS7	Volume of distribution	False	pXZXwcJUsM8	2	pXZXwcJUsM8
+PuWPZYmb0eC	Vc	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+G-BoLA21rf8	Vc/F	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+QKM1CPCCCy5	Vd	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+HYA_eJObI-6	Vd/F	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+OfpYTfRz-H8	Vss	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+Fxx8FcN-xL-	Vss/F	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+myj1VBnPtY6	Vz	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+dUd4IWhR9b5	Vz/F	True	7RxK-mCPFS7	3	7RxK-mCPFS7
+hfHbXU1d3ZE	Kp	True	NVYdCnVmRz9	3	NVYdCnVmRz9
+xCAZG21kIj6	tissue distribution	True	NVYdCnVmRz9	3	NVYdCnVmRz9
+_zXBwFUGY8C	Alpha	True	E4d7QBcgptD	3	E4d7QBcgptD
+_7luoUaxE65	T1/2alpha2	True	E4d7QBcgptD	3	E4d7QBcgptD
+bLJ-SuXK8OG	Time to steady state	True	_9QHBGQ3-QH	3	_9QHBGQ3-QH
+LZZoq-unswD	Blood/plasma ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+NLOXj-gqISH	Blood/serum ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+PdmL1QPN6b5	Brain/plasma ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+Pv7HXOYgY79	CSF/plasma ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+JxR7amfwih8	CSF/serum ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+PVx9QqGG8E9	Fetal/maternal ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+gLjnfnkvee-	Milk/plasma ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+4D9GeQ9-qGB	Milk/serum ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+hjlKxvSk4OF	Plasma/blood ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+yOBiPuO-rqD	RBC/plasma ratio	True	ie1e0lfO9QC	3	ie1e0lfO9QC
+JKW_90rgQbH	AUC	True	d9YknyxX_JC	3	d9YknyxX_JC
+OOxYwvqmve-	AUMC	True	d9YknyxX_JC	3	d9YknyxX_JC
+nMZN4WBbtD4	LAUC	True	d9YknyxX_JC	3	d9YknyxX_JC
+OWAEOrrBWV8	RAC	True	9g3UMhwxELB	3	9g3UMhwxELB
+OqIHQTZHbB4	Enantiomeric ratio	True	skEGgPQrmTA	2	skEGgPQrmTA
+o-6TTFGikiG	Metabolic ratio	True	skEGgPQrmTA	2	skEGgPQrmTA
+GEl5nONEKT9	Metabolic stability	True	skEGgPQrmTA	2	skEGgPQrmTA
+oanW_-VfgS7	Metabolic transformation	True	skEGgPQrmTA	2	skEGgPQrmTA
+uXhTx1eRptA	Cell binding	False	AWkDuEPp7b8	2	AWkDuEPp7b8
+FPDGDvqXkNE	Protein binding	False	AWkDuEPp7b8	2	AWkDuEPp7b8
+7bvkxDRCFNF	Fu	True	FPDGDvqXkNE	3	FPDGDvqXkNE
+2nz-cUHkRw7	Plasma protein binding	True	FPDGDvqXkNE	3	FPDGDvqXkNE
+irCvYhyl1H5	Serum protein binding	True	FPDGDvqXkNE	3	FPDGDvqXkNE
+6DAoe62cx_C	Blood cell binding	True	uXhTx1eRptA	3	uXhTx1eRptA
+miTYr5djZnA	%absorbed	True	UktLqS16Zp9	2	UktLqS16Zp9
+DI_aWN4vTBA	Amount absorbed	True	UktLqS16Zp9	2	UktLqS16Zp9
+0GkQ6b4tvbD	Bioavailability	True	UktLqS16Zp9	2	UktLqS16Zp9
+HMCJeAcUCLG	Concentrations	False	UktLqS16Zp9	2	UktLqS16Zp9
+y9wQPgu3Bs6	Fa	True	UktLqS16Zp9	2	UktLqS16Zp9
+xixSCjWuM84	FaFg	True	UktLqS16Zp9	2	UktLqS16Zp9
+rKxNbe-LibD	Fh	True	UktLqS16Zp9	2	UktLqS16Zp9
+CEw-DC5Dkz6	Time values	False	UktLqS16Zp9	2	UktLqS16Zp9
+l9fxX39b_55	Ka	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+ll0OZ7ViuKC	MAT	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+zeBXEb0mK7_	T1/2abs	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+dF_thqvUSo-	Tlag	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+LlM9pHhQsxG	Tmax	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+d_HZPtePik8	Tmin	True	CEw-DC5Dkz6	3	CEw-DC5Dkz6
+H0yBQGrDTlB	C	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+dZZkRpxusIG	Cavg	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+PZcLtQH_jQ4	Cmax	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+905kDDmtXA4	Cmin	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+_E9j085Kyz7	LCavg	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+xEALQkPbp79	LCmax	True	HMCJeAcUCLG	3	HMCJeAcUCLG
+fgdkmWuJdr9	LCmin	True	HMCJeAcUCLG	3	HMCJeAcUCLG
